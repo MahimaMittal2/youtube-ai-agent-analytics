@@ -40,7 +40,7 @@ The data-driven recommendation was **Selective Rollout (Option B)**—deploying 
 ## Key Findings
 
 - **SARR Lift**: Increased from **$54.26\% \rightarrow 64.11\%$** ($+9.85\text{ pp}$ absolute lift, $+18.16\%$ relative lift, $p < 10^{-40}$).
-- **Containment vs. Escalation**: Headline containment rose from **$68.37\% \rightarrow 79.12\%$** ($+10.75\text{ pp}$), reducing live human escalations from $31.63\% \rightarrow 20.88\%$.
+- **Containment vs. Escalation:** Headline containment increased from 68.37% to 79.12% (+10.75 pp), while live human escalation fell from 31.63% to 20.88%.
 - **AI Error Reduction**: Guardrail error rate decreased from **$4.38\% \rightarrow 3.06\%$** ($-30.20\%$ relative reduction, $p = 1.11 \times 10^{-6}$).
 - **Complexity Divergence**: SARR surged by **$+15.63\text{ pp}$** in Low Complexity ($71.0\% \rightarrow 86.6\%$) but only gained **$+3.16\text{ pp}$** in High Complexity ($26.1\% \rightarrow 29.3\%$).
 - **False Containment Wedge**: In High Complexity, the gap between containment and resolution expanded from **$20.2\text{ pp} \rightarrow 26.2\text{ pp}$** ($+6.1\text{ pp}$).
@@ -60,7 +60,7 @@ To evaluate AI Agent V2 against Baseline V1 without selection bias, a 60-day str
 Evaluating performance across complexity tiers revealed that V2's performance is not uniform. In Low Complexity (40.2% of traffic), V2 performs strongly (+15.63 pp SARR lift). In High Complexity (20.0% of traffic), containment surged (+9.22 pp) while SARR stagnated (+3.16 pp), trapping creators in unhelpful automated loops.
 
 ### 4. AI Quality & Behavioral Impact
-Multivariate logistic regression (free of target leakage) revealed that AI factual and policy errors cause a **-56.0% collapse in Mean CSAT** ($4.52 \rightarrow 1.99$ stars) and spike 7-day repeat contact rates from **$12.9\% \rightarrow 54.9\%$** ($4.26\times$). False containment independently increases repeat contact odds by **$+47.7\%$** ($\text{OR} = 1.48$).
+Multivariate logistic regression (free of target leakage) revealed that AI factual and policy errors are associated with a -56.0% decline in Mean CSAT (4.52 → 1.99 stars) and a 4.26× increase in 7-day repeat contact. False containment is associated with 47.7% higher repeat-contact odds (OR = 1.48).
 
 ### 5. Operational Capacity & Forecasting
 A closed-loop operational capacity model was developed to translate AI performance into human support staffing requirements across 15,000 monthly conversations. Sensitivity modeling (60%, 70%, 80%, 85% containment) proved that pushing containment beyond ~80% causes false containment to surge by +59% and repeat failure demand by +55.1%, reversing labor savings and increasing total human labor hours from 2,071 to 2,111 hrs/month.
@@ -95,7 +95,7 @@ Rather than scaling broadly (Option A) or pausing rollout (Option C), the empiri
 | **A/B Experimentation** | [`python/05_ab_test.py`](python/05_ab_test.py) | Stratified hypothesis testing, Welch's t-test, Bootstrap CIs |
 | **Capacity Forecasting** | [`python/06_forecasting.py`](python/06_forecasting.py) | Closed-loop queue dynamics, labor hours, annualized cost modeling |
 | **Scenario Sensitivity** | [`python/07_scenario_analysis.py`](python/07_scenario_analysis.py) | 60/70/80/85% containment sweep, non-linear inflection modeling |
-| **SQL Pipeline** | [`sql/`](sql/) | 10 modular production SQL scripts tested via DuckDB engine |
+| **SQL Pipeline** | [`sql/`](sql/) | 10 modular SQL analysis scripts tested via DuckDB |
 | **Business Intelligence** | [`dashboard/powerbi/`](dashboard/powerbi/) | Star schema data model, 3-page Power BI layout, DAX measures |
 
 ---
@@ -107,7 +107,7 @@ Rather than scaling broadly (Option A) or pausing rollout (Option C), the empiri
 | ![Figure 1](visuals/fig5_ab_experiment_comparison.png) | **A/B Experiment Scorecard (fig5)**: AI Agent V2 delivers a statistically significant +9.85 pp lift in SARR and 30.20% reduction in AI error rates across the 60-day trial. |
 | ![Figure 2](visuals/fig2_containment_vs_sarr_wedge.png) | **False Containment Wedge (fig2)**: Headline containment masks true resolution across all categories, with the gap widening to >17 pp in complex policy/copyright domains. |
 | ![Figure 3](visuals/fig3_complexity_interaction.png) | **Complexity Interaction (fig3)**: Low complexity sees massive SARR gains (+15.63 pp), while High complexity suffers from over-containment and a CSAT inversion below baseline. |
-| ![Figure 4](visuals/fig4_ai_error_csat_impact.png) | **AI Error Penalty (fig4)**: Committing factual or policy errors causes a -56% collapse in Mean CSAT (4.52 → 1.99 stars) and a 4.26x surge in 7-day repeat contact demand. |
+| ![Figure 4](visuals/fig4_ai_error_csat_impact.png) | **AI Error Penalty (fig4)**: AI factual or policy errors are associated with a -56% decline in Mean CSAT (4.52 → 1.99 stars) and a 4.26x surge in 7-day repeat contact demand. |
 | ![Figure 5](visuals/fig7_containment_sensitivity_scenarios.png) | **Containment Sensitivity (fig7)**: Pushing containment beyond ~80% triggers a +55.1% spike in repeat failure demand, reversing labor savings and increasing monthly human hours. |
 
 ---
@@ -130,7 +130,7 @@ python python/01_data_generation.py
 # 4. Run automated data quality assertions
 python python/02_data_quality.py
 
-# 5. Execute production SQL test suite (DuckDB Engine)
+# 5. Execute SQL analysis validation suite (DuckDB Engine)
 python python/validate_sql.py
 
 # 6. Execute statistical analysis & generate visuals
