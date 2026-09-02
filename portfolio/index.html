@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Analytics portfolio of Mahima Mittal — focused on product analytics, experimentation, AI-enabled analytics, and data-driven decision making.">
+  <meta name="author" content="Mahima Mittal">
+  <meta property="og:title" content="Mahima Mittal — Analytics & AI Portfolio">
+  <meta property="og:description" content="Business analyst focused on product analytics, experimentation, AI-enabled analytics, and operational decision-making.">
+  <meta property="og:type" content="website">
+  <title>Mahima Mittal — Analytics & AI Portfolio</title>
+  
+  <!-- Google Fonts: Inter & Outfit -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Sticky Navigation Bar -->
+  <nav class="navbar" id="navbar">
+    <div class="nav-container">
+      <a href="#hero" class="nav-brand">
+        <span class="brand-name">Mahima Mittal</span>
+        <span class="brand-role">Business & Product Analytics</span>
+      </a>
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle Navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <ul class="nav-menu" id="navMenu">
+        <li><a href="#about" class="nav-link">About</a></li>
+        <li><a href="#selected-work" class="nav-link">Selected Work</a></li>
+        <li><a href="#case-study" class="nav-link">Flagship Case Study</a></li>
+        <li><a href="#skills" class="nav-link">Toolkit</a></li>
+        <li><a href="#experience" class="nav-link">Experience</a></li>
+        <li><a href="#contact" class="nav-link">Contact</a></li>
+        <li>
+          <a href="https://github.com/MahimaMittal2/youtube-ai-agent-analytics" target="_blank" rel="noopener noreferrer" class="nav-btn-github">
+            <svg class="github-icon" viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
+              <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/>
+            </svg>
+            GitHub
+          </a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- 1. Hero Section -->
+  <header class="hero" id="hero">
+    <div class="container hero-container">
+      <div class="hero-badge">BUSINESS & PRODUCT ANALYTICS</div>
+      <h1 class="hero-title">Turning Data into Decisions.</h1>
+      <p class="hero-subtitle">
+        Business analyst focused on product analytics, experimentation, AI-enabled analytics, and operational decision-making.
+      </p>
+      
+      <div class="hero-actions">
+        <a href="#selected-work" class="btn btn-primary">View My Work</a>
+        <a href="https://github.com/MahimaMittal2/youtube-ai-agent-analytics" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">
+          <svg class="github-icon" viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
+            <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/>
+          </svg>
+          GitHub
+        </a>
+        <a href="#contact" class="btn btn-tertiary">Contact Me</a>
+      </div>
+
+      <!-- Quick Metrics Highlights Ribbon -->
+      <div class="hero-stats-ribbon">
+        <div class="stat-item">
+          <span class="stat-val">120k</span>
+          <span class="stat-lbl">Simulated Conversations</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+          <span class="stat-val">19,404</span>
+          <span class="stat-lbl">RCT Experiment Sample</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+          <span class="stat-val">+9.85 pp</span>
+          <span class="stat-lbl">SARR Resolution Lift</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+          <span class="stat-val">Selective</span>
+          <span class="stat-lbl">Rollout Strategy</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- 2. About Section -->
+  <section class="section section-about" id="about">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">BACKGROUND</span>
+        <h2 class="section-title">About Me</h2>
+      </div>
+
+      <div class="about-grid">
+        <div class="about-narrative">
+          <p class="about-lead">
+            Business Analyst with 5 years of experience designing KPI frameworks, running root-cause analysis on complex data anomalies, and structuring controlled experiments across pricing, retention, and operational workstreams.
+          </p>
+          <p>
+            Skilled in SQL and Python for synthesizing large, disparate datasets, with a proven track record of translating statistical findings into actionable recommendations for executive and cross-functional stakeholders.
+          </p>
+          <p>
+            My work combines experimentation rigor, GenAI-enabled analytics automation, and operational capacity modeling to ensure analytical initiatives deliver durable business value.
+          </p>
+        </div>
+
+        <div class="about-pillars">
+          <div class="pillar-card">
+            <div class="pillar-num">01</div>
+            <h3 class="pillar-title">Problem-Driven Analytics</h3>
+            <p class="pillar-desc">Structuring ambiguous business trade-offs into measurable hypotheses, metric frameworks, and executive decision models.</p>
+          </div>
+          <div class="pillar-card">
+            <div class="pillar-num">02</div>
+            <h3 class="pillar-title">Experimentation & A/B Testing</h3>
+            <p class="pillar-desc">Moving beyond naive headline metrics through stratified randomized trials, covariate balancing, and subgroup segmentation.</p>
+          </div>
+          <div class="pillar-card">
+            <div class="pillar-num">03</div>
+            <h3 class="pillar-title">Operational Translation</h3>
+            <p class="pillar-desc">Connecting model accuracy to workforce queue dynamics, labor capacity forecasting, and user trust.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 3. Selected Work Section -->
+  <section class="section section-work" id="selected-work">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">PORTFOLIO</span>
+        <h2 class="section-title">Selected Work</h2>
+        <p class="section-subtitle">Flagship analytical case study and core capability areas.</p>
+      </div>
+
+      <!-- Primary Flagship Project Card -->
+      <div class="flagship-card-wrapper">
+        <article class="work-card work-card-featured">
+          <div class="work-card-header">
+            <div class="work-badge">FLAGSHIP CASE STUDY</div>
+            <span class="work-category">AI Analytics · Experimentation · Operations</span>
+          </div>
+          <h3 class="work-title">AI Agent Performance & Optimization</h3>
+          <p class="work-description">
+            Independent analytics case study evaluating AI-agent performance, KPI design, experimentation, AI quality, and operational trade-offs in a simulated creator-support environment using synthetic data.
+          </p>
+          
+          <div class="work-tags">
+            <span class="tag">SARR +9.85 pp</span>
+            <span class="tag">N = 19,404 RCT</span>
+            <span class="tag">Selective Rollout</span>
+            <span class="tag">DuckDB SQL</span>
+            <span class="tag">Python</span>
+            <span class="tag">Power BI</span>
+          </div>
+
+          <div class="work-actions">
+            <a href="#case-study" class="btn btn-primary">Read Case Study</a>
+            <a href="https://github.com/MahimaMittal2/youtube-ai-agent-analytics" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">
+              View GitHub →
+            </a>
+          </div>
+        </article>
+      </div>
+
+      <!-- Secondary Analytical Focus Cards -->
+      <div class="focus-section">
+        <h3 class="focus-heading">Analytical Focus Areas</h3>
+        <div class="focus-grid">
+          <div class="focus-card">
+            <div class="focus-icon-wrap">
+              <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M10 2v7.31M14 9.3V1.99M8.5 2h7M14 9.3a6.5 6.5 0 11-4 0"/>
+              </svg>
+            </div>
+            <h4 class="focus-title">Experimentation</h4>
+            <p class="focus-desc">A/B testing, hypothesis testing, treatment effects, and covariate balance verification.</p>
+          </div>
+
+          <div class="focus-card">
+            <div class="focus-icon-wrap">
+              <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 20V10M12 20V4M6 20v-6"/>
+              </svg>
+            </div>
+            <h4 class="focus-title">KPI Design</h4>
+            <p class="focus-desc">North-star metrics, measurement frameworks, resolution metrics, and wedge isolation.</p>
+          </div>
+
+          <div class="focus-card">
+            <div class="focus-icon-wrap">
+              <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M12 2a10 10 0 1010 10H12V2zM12 12L2.5 7.5M12 12l5 8.5"/>
+              </svg>
+            </div>
+            <h4 class="focus-title">AI Analytics</h4>
+            <p class="focus-desc">AI quality evaluation, hallucination audits, failure demand modeling, and GenAI automation.</p>
+          </div>
+
+          <div class="focus-card">
+            <div class="focus-icon-wrap">
+              <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
+              </svg>
+            </div>
+            <h4 class="focus-title">Operations</h4>
+            <p class="focus-desc">Demand forecasting, workforce capacity modeling, scenario analysis, and SLA optimization.</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 4. Flagship Case Study Section -->
+  <section class="section section-case-study" id="case-study">
+    <div class="container">
+      <div class="case-study-wrapper">
+        
+        <!-- Case Study Header -->
+        <div class="case-study-header">
+          <div class="cs-badge">FEATURED CASE STUDY</div>
+          <h2 class="cs-title">Optimizing AI Agent Performance in Creator Support</h2>
+          <p class="cs-problem">
+            “Can higher AI containment actually improve resolution without creating downstream support demand?”
+          </p>
+          
+          <div class="cs-disclosure">
+            <svg viewBox="0 0 20 20" width="16" height="16" fill="currentColor">
+              <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"/>
+            </svg>
+            <span><strong>Independent Study Disclosure:</strong> This project is an independent analytics case study based on a simulated creator-support environment (120,000 synthetic records). No Google/YouTube internal data, systems, metrics, or confidential information were used.</span>
+          </div>
+        </div>
+
+        <!-- Validated Metric Cards -->
+        <div class="cs-metrics-grid">
+          <div class="cs-metric-card">
+            <span class="cs-metric-num">54.26% → 64.11%</span>
+            <span class="cs-metric-title">Successful AI Resolution (SARR)</span>
+            <span class="cs-metric-sub">North-Star Resolution Rate</span>
+          </div>
+          <div class="cs-metric-card">
+            <span class="cs-metric-num">+9.85 pp</span>
+            <span class="cs-metric-title">Statistically Significant Lift</span>
+            <span class="cs-metric-sub">+18.16% relative gain (p &lt; 10⁻⁴⁰)</span>
+          </div>
+          <div class="cs-metric-card">
+            <span class="cs-metric-num">19,404</span>
+            <span class="cs-metric-title">Simulated RCT Sample</span>
+            <span class="cs-metric-sub">50/50 Stratified A/B Split</span>
+          </div>
+          <div class="cs-metric-card">
+            <span class="cs-metric-num">4.46×</span>
+            <span class="cs-metric-title">Repeat Odds Multiplier</span>
+            <span class="cs-metric-sub">Associated with AI factual errors</span>
+          </div>
+        </div>
+
+        <!-- Visual Analytical Walkthrough -->
+        <div class="cs-visual-story">
+          
+          <!-- Visual 1: Scorecard -->
+          <div class="visual-card">
+            <div class="visual-header">
+              <span class="visual-step">STEP 1 · CONTROLLED EXPERIMENTATION</span>
+              <h3 class="visual-title">Randomized A/B Test Scorecard</h3>
+            </div>
+            <div class="visual-img-container">
+              <img src="assets/fig5_ab_experiment_comparison.png" alt="Randomized A/B experiment evaluation comparing V1 and V2 across key metrics" loading="lazy">
+            </div>
+            <p class="visual-caption">
+              In a 60-day stratified randomized controlled trial (N = 19,404), AI Agent V2 delivered a statistically significant +9.85 pp lift in SARR and cut hallucination error rates by 30.20%.
+            </p>
+          </div>
+
+          <!-- Visual 2: The Wedge -->
+          <div class="visual-card">
+            <div class="visual-header">
+              <span class="visual-step">STEP 2 · METRIC INNOVATION</span>
+              <h3 class="visual-title">The False Containment Wedge</h3>
+            </div>
+            <div class="visual-img-container">
+              <img src="assets/fig2_containment_vs_sarr_wedge.png" alt="False Containment Wedge across issue types comparing containment rate to SARR" loading="lazy">
+            </div>
+            <p class="visual-caption">
+              Headline containment creates an optical illusion of efficiency; true SARR resolution exposes an operational gap widening to over 17 pp in complex policy and copyright domains.
+            </p>
+          </div>
+
+          <!-- Visual 3: Complexity Interaction -->
+          <div class="visual-card">
+            <div class="visual-header">
+              <span class="visual-step">STEP 3 · SUBGROUP SEGMENTATION</span>
+              <h3 class="visual-title">Heterogeneous Treatment Effects by Complexity</h3>
+            </div>
+            <div class="visual-img-container">
+              <img src="assets/fig3_complexity_interaction.png" alt="SARR lift and CSAT scores broken down by Low, Medium, and High complexity tiers" loading="lazy">
+            </div>
+            <p class="visual-caption">
+              Low complexity captured strong SARR gains (+15.63 pp), while High complexity suffered from aggressive over-containment and a wider false containment gap (26.2 pp).
+            </p>
+          </div>
+
+          <!-- Visual 4: AI Quality Impact -->
+          <div class="visual-card">
+            <div class="visual-header">
+              <span class="visual-step">STEP 4 · AI QUALITY & BEHAVIOR</span>
+              <h3 class="visual-title">Sentiment Penalty and Repeat Failure Demand</h3>
+            </div>
+            <div class="visual-img-container">
+              <img src="assets/fig4_ai_error_csat_impact.png" alt="Impact of AI errors on CSAT distribution and 7-day repeat contact rate" loading="lazy">
+            </div>
+            <p class="visual-caption">
+              AI factual and policy errors are associated with a -56.0% decline in Mean CSAT (4.52 → 1.99 stars) and drive a 4.26× surge in 7-day repeat contact failure demand.
+            </p>
+          </div>
+
+          <!-- Visual 5: Containment Sensitivity -->
+          <div class="visual-card">
+            <div class="visual-header">
+              <span class="visual-step">STEP 5 · WORKFORCE CAPACITY</span>
+              <h3 class="visual-title">Containment Sensitivity & Diminishing Returns</h3>
+            </div>
+            <div class="visual-img-container">
+              <img src="assets/fig7_containment_sensitivity_scenarios.png" alt="Containment target sensitivity curves showing inflection above 80% containment" loading="lazy">
+            </div>
+            <p class="visual-caption">
+              Pushing containment beyond ~80% triggers a +55.1% spike in repeat failure demand, reversing workforce savings and increasing total human labor hours from 2,071 to 2,111 hrs/month.
+            </p>
+          </div>
+
+        </div>
+
+        <!-- Executive Strategic Decision -->
+        <div class="cs-decision-box">
+          <div class="decision-badge">EXECUTIVE RECOMMENDATION</div>
+          <h3 class="decision-title">Recommended Strategy: Selective Rollout (Option B)</h3>
+          <p class="decision-quote">
+            “Selective rollout outperformed a universal deployment strategy in the simulated analysis: automate low- and medium-complexity workflows broadly while routing high-complexity cases to human specialists.”
+          </p>
+          
+          <div class="decision-points">
+            <div class="dp-item">
+              <strong>1. Deploy V2 for Low & Medium Complexity:</strong> Captures ~94% of observed incremental SARR gains across 80% of creator support volume.
+            </div>
+            <div class="dp-item">
+              <strong>2. Intelligent Early Triage for High Complexity:</strong> Bypasses the 26.2 pp false-containment trap by routing policy disputes directly to human specialists.
+            </div>
+            <div class="dp-item">
+              <strong>3. Modernize KPI Governance:</strong> Replaces isolated containment targets with SARR and Quality-Adjusted Containment (QAC) launch gates.
+            </div>
+          </div>
+
+          <div class="cs-cta-container">
+            <a href="https://github.com/MahimaMittal2/youtube-ai-agent-analytics/blob/main/case-study/recruiter_case_study.md" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
+              Read the Full Recruiter Case Study →
+            </a>
+            <a href="https://github.com/MahimaMittal2/youtube-ai-agent-analytics" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">
+              Explore Repository on GitHub
+            </a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- 5. Skills / Toolkit Section -->
+  <section class="section section-skills" id="skills">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">COMPETENCIES</span>
+        <h2 class="section-title">Skills & Toolkit</h2>
+        <p class="section-subtitle">Disciplines, analytical toolsets, and methodologies applied across projects.</p>
+      </div>
+
+      <div class="skills-grid">
+        <!-- Group 1: Analytics -->
+        <div class="skill-card">
+          <div class="skill-icon-wrap">
+            <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 20V10M12 20V4M6 20v-6"/>
+            </svg>
+          </div>
+          <h3 class="skill-group-title">Analytics</h3>
+          <ul class="skill-list">
+            <li>SQL (DuckDB, Snowflake, BigQuery)</li>
+            <li>Python (Pandas, NumPy, Statsmodels)</li>
+            <li>Excel (Advanced Modeling, Power Query)</li>
+            <li>Power BI & Tableau Server</li>
+            <li>Data Visualization (Matplotlib, Seaborn)</li>
+          </ul>
+        </div>
+
+        <!-- Group 2: Experimentation -->
+        <div class="skill-card">
+          <div class="skill-icon-wrap">
+            <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M10 2v7.31M14 9.3V1.99M8.5 2h7M14 9.3a6.5 6.5 0 11-4 0"/>
+            </svg>
+          </div>
+          <h3 class="skill-group-title">Experimentation</h3>
+          <ul class="skill-list">
+            <li>A/B Testing & Randomization</li>
+            <li>Statistical Hypothesis Testing & CIs</li>
+            <li>Heterogeneous Treatment Effects (HTE)</li>
+            <li>Root-Cause & Cohort Analysis</li>
+            <li>Covariate Balancing & Stratification</li>
+          </ul>
+        </div>
+
+        <!-- Group 3: AI / Automation -->
+        <div class="skill-card">
+          <div class="skill-icon-wrap">
+            <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M12 2a10 10 0 1010 10H12V2zM12 12L2.5 7.5M12 12l5 8.5"/>
+            </svg>
+          </div>
+          <h3 class="skill-group-title">AI & Automation</h3>
+          <ul class="skill-list">
+            <li>GenAI-Enabled Analytics & Workflows</li>
+            <li>AI Quality & Hallucination Auditing</li>
+            <li>Failure Demand Modeling</li>
+            <li>Automated Analytics Pipelines</li>
+            <li>LLM Prompt Engineering</li>
+          </ul>
+        </div>
+
+        <!-- Group 4: Business Strategy -->
+        <div class="skill-card">
+          <div class="skill-icon-wrap">
+            <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
+            </svg>
+          </div>
+          <h3 class="skill-group-title">Business Strategy</h3>
+          <ul class="skill-list">
+            <li>KPI & Measurement Framework Design</li>
+            <li>Operational Capacity Analytics</li>
+            <li>Scenario & Sensitivity Modeling</li>
+            <li>Executive Reporting & Data Storytelling</li>
+            <li>Data-Driven Decision Frameworks</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 6. Experience & Education Section -->
+  <section class="section section-experience" id="experience">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">CAREER PATH</span>
+        <h2 class="section-title">Professional Experience</h2>
+        <p class="section-subtitle">Track record in business analytics, experimentation, and operational decision support.</p>
+      </div>
+
+      <div class="experience-timeline">
+        <!-- Role 1: PriceEasy AI -->
+        <div class="timeline-card">
+          <div class="timeline-meta">
+            <span class="timeline-dates">Feb 2024 — Present</span>
+            <span class="timeline-badge">CURRENT ROLE</span>
+          </div>
+          <h3 class="timeline-role">Senior Business Analyst</h3>
+          <p class="timeline-company">PriceEasy AI · B2B Pricing Intelligence Platform (Shell, BP, Chevron, ExxonMobil)</p>
+          <ul class="timeline-bullets">
+            <li>Designed controlled pricing experiments across partner networks testing competitor-response thresholds and zone-based rules, driving a 12% volume uplift while preserving gross margins.</li>
+            <li>Built KPI and target-setting reporting frameworks in SQL and BI tools adopted across global accounts, cutting turnaround time by 60% for commercial leadership.</li>
+            <li>Automated recurring reporting workflows using SQL scripting and GenAI prompt engineering, eliminating 100+ manual hours per month.</li>
+          </ul>
+          <div class="timeline-tags">
+            <span class="tag">SQL</span>
+            <span class="tag">Python</span>
+            <span class="tag">Pricing Experiments</span>
+            <span class="tag">Power BI</span>
+            <span class="tag">GenAI Automation</span>
+          </div>
+        </div>
+
+        <!-- Role 2: BYJU'S -->
+        <div class="timeline-card">
+          <div class="timeline-meta">
+            <span class="timeline-dates">Apr 2021 — Jan 2024</span>
+          </div>
+          <h3 class="timeline-role">Analyst</h3>
+          <p class="timeline-company">BYJU'S · Global EdTech Platform</p>
+          <ul class="timeline-bullets">
+            <li>Uncovered churn drivers through hypothesis-driven cohort and behavioral analysis on 1M+ user engagement records, supporting product strategies that contributed to a 15% reduction in monthly churn.</li>
+            <li>Led data integration requirements between CRM systems and enterprise analytical warehouses, improving reporting integrity by 20%.</li>
+            <li>Conducted root-cause analysis on customer engagement bottlenecks, delivering executive dashboards for operational leaders.</li>
+          </ul>
+          <div class="timeline-tags">
+            <span class="tag">SQL</span>
+            <span class="tag">Cohort Analysis</span>
+            <span class="tag">Churn Diagnostics</span>
+            <span class="tag">Tableau</span>
+            <span class="tag">Stakeholder Reporting</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Education & Certifications Subsection -->
+      <div class="credentials-container">
+        
+        <!-- Education Subsection -->
+        <div class="credential-group">
+          <h3 class="credential-heading">Education</h3>
+          <div class="credential-grid">
+            <div class="credential-card">
+              <span class="cred-title">M.Sc. Chemistry</span>
+              <span class="cred-inst">Indira Gandhi State University</span>
+              <span class="cred-period">2018 — 2021</span>
+              <span class="cred-desc">Quantitative research and statistical data analysis</span>
+            </div>
+            <div class="credential-card">
+              <span class="cred-title">B.Sc. Chemistry</span>
+              <span class="cred-inst">KR Mangalam University</span>
+              <span class="cred-period">2015 — 2018</span>
+              <span class="cred-desc">Foundational scientific methodology and empirical research</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Certifications Subsection -->
+        <div class="credential-group">
+          <h3 class="credential-heading">Certifications</h3>
+          <div class="credential-grid">
+            <div class="credential-card">
+              <span class="cred-title">Google Advanced Data Analytics</span>
+              <span class="cred-inst">Coursera Professional Certificate</span>
+              <span class="cred-period">2026</span>
+              <span class="cred-desc">Statistical modeling, predictive regression, and Python analytics</span>
+            </div>
+            <div class="credential-card">
+              <span class="cred-title">Google Business Intelligence Certificate</span>
+              <span class="cred-inst">Coursera Professional Certificate</span>
+              <span class="cred-period">In Progress, 2026</span>
+              <span class="cred-desc">BI reporting, data modeling, and executive KPI dashboards</span>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 7. Contact Section -->
+  <section class="section section-contact" id="contact">
+    <div class="container contact-container">
+      <div class="contact-card">
+        <span class="section-tag">GET IN TOUCH</span>
+        <h2 class="contact-title">Let's work with data that matters.</h2>
+        <p class="contact-subtitle">
+          Interested in discussing product analytics, experimentation methodologies, or AI performance decision frameworks? Let's connect.
+        </p>
+
+        <div class="contact-links">
+          <a href="mailto:mahimamittal2020@gmail.com" class="contact-item">
+            <div class="contact-icon">
+              <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+                <polyline points="22,6 12,13 2,6"/>
+              </svg>
+            </div>
+            <div class="contact-text">
+              <span class="contact-label">Email</span>
+              <span class="contact-val">mahimamittal2020@gmail.com</span>
+            </div>
+          </a>
+
+          <a href="https://www.linkedin.com/in/mahima-mittal-26901410b" target="_blank" rel="noopener noreferrer" class="contact-item">
+            <div class="contact-icon">
+              <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+                <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
+              </svg>
+            </div>
+            <div class="contact-text">
+              <span class="contact-label">LinkedIn</span>
+              <span class="contact-val">linkedin.com/in/mahima-mittal</span>
+            </div>
+          </a>
+
+          <a href="https://github.com/MahimaMittal2/youtube-ai-agent-analytics" target="_blank" rel="noopener noreferrer" class="contact-item">
+            <div class="contact-icon">
+              <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+                <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/>
+              </svg>
+            </div>
+            <div class="contact-text">
+              <span class="contact-label">GitHub</span>
+              <span class="contact-val">github.com/MahimaMittal2</span>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container footer-container">
+      <div class="footer-left">
+        <span class="footer-brand">Mahima Mittal</span>
+        <span class="footer-copy">Analytics · Experimentation · AI-enabled Decision Making</span>
+      </div>
+      <div class="footer-right">
+        <a href="https://www.linkedin.com/in/mahima-mittal-26901410b" target="_blank" rel="noopener noreferrer">LinkedIn</a> · 
+        <a href="https://github.com/MahimaMittal2/youtube-ai-agent-analytics" target="_blank" rel="noopener noreferrer">GitHub</a> · 
+        <a href="mailto:mahimamittal2020@gmail.com">Email</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
