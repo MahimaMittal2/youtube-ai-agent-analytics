@@ -1,5 +1,7 @@
 # AI Agent Performance & Optimization in Creator Support
 
+[🌐 View Live Portfolio](https://mahimamittal2.github.io/youtube-ai-agent-analytics/)
+
 An end-to-end analytics case study and decision framework evaluating conversational AI agent performance, experimental treatment effects, and operational workforce capacity in a simulated creator support environment.
 
 > [!IMPORTANT]
