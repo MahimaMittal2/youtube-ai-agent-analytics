@@ -1,0 +1,1501 @@
+creator_id,creator_segment,region,channel_size,creator_tenure_months
+CRT-00001,Established,UK,374681,51
+CRT-00002,Emerging,Other,732,104
+CRT-00003,Established,India,100000,85
+CRT-00004,Growth,India,11120,17
+CRT-00005,Emerging,Other,4176,13
+CRT-00006,Large,Southeast Asia,1497221,44
+CRT-00007,Growth,Canada,18483,111
+CRT-00008,Established,India,532637,6
+CRT-00009,Emerging,US,3685,23
+CRT-00010,Growth,Canada,27234,4
+CRT-00011,Emerging,US,1059,50
+CRT-00012,Established,US,183641,119
+CRT-00013,Growth,UK,30139,83
+CRT-00014,Established,Canada,519191,60
+CRT-00015,Emerging,Other,1878,18
+CRT-00016,Emerging,US,2394,43
+CRT-00017,Growth,US,48273,63
+CRT-00018,Emerging,Other,525,33
+CRT-00019,Established,US,312674,85
+CRT-00020,Growth,US,23218,118
+CRT-00021,Growth,US,10000,25
+CRT-00022,Emerging,Southeast Asia,244,31
+CRT-00023,Large,Other,1000000,16
+CRT-00024,Established,Canada,273411,88
+CRT-00025,Established,UK,212836,56
+CRT-00026,Emerging,US,1552,35
+CRT-00027,Growth,India,71358,27
+CRT-00028,Emerging,India,485,9
+CRT-00029,Emerging,US,1310,58
+CRT-00030,Growth,US,31326,82
+CRT-00031,Growth,India,18617,29
+CRT-00032,Large,US,2022467,1
+CRT-00033,Emerging,Southeast Asia,372,57
+CRT-00034,Emerging,UK,4137,82
+CRT-00035,Growth,US,19133,42
+CRT-00036,Emerging,India,6803,31
+CRT-00037,Emerging,Canada,1305,19
+CRT-00038,Growth,Canada,44982,90
+CRT-00039,Emerging,Other,1283,104
+CRT-00040,Growth,India,26492,93
+CRT-00041,Emerging,Other,839,63
+CRT-00042,Established,US,213517,87
+CRT-00043,Growth,India,31539,48
+CRT-00044,Emerging,US,715,3
+CRT-00045,Established,India,184420,45
+CRT-00046,Established,India,137852,85
+CRT-00047,Emerging,US,8431,78
+CRT-00048,Emerging,Canada,1246,119
+CRT-00049,Growth,India,58256,120
+CRT-00050,Emerging,US,1145,30
+CRT-00051,Emerging,US,1648,2
+CRT-00052,Emerging,India,465,33
+CRT-00053,Established,India,152018,106
+CRT-00054,Growth,India,29889,98
+CRT-00055,Growth,US,59456,12
+CRT-00056,Established,Canada,227109,20
+CRT-00057,Growth,Other,53737,68
+CRT-00058,Growth,India,37062,80
+CRT-00059,Emerging,UK,4924,118
+CRT-00060,Emerging,Other,1277,91
+CRT-00061,Growth,Other,88886,26
+CRT-00062,Growth,Southeast Asia,21105,5
+CRT-00063,Growth,Other,18338,77
+CRT-00064,Growth,Other,14690,67
+CRT-00065,Growth,Canada,86293,111
+CRT-00066,Growth,India,40527,70
+CRT-00067,Growth,US,22764,61
+CRT-00068,Emerging,US,3638,37
+CRT-00069,Emerging,India,2321,11
+CRT-00070,Emerging,India,6456,106
+CRT-00071,Emerging,India,388,100
+CRT-00072,Emerging,Southeast Asia,1083,20
+CRT-00073,Established,Southeast Asia,150615,85
+CRT-00074,Emerging,Other,276,44
+CRT-00075,Emerging,US,3128,53
+CRT-00076,Emerging,US,1078,102
+CRT-00077,Emerging,Canada,2420,102
+CRT-00078,Growth,Other,87543,23
+CRT-00079,Growth,Other,22547,37
+CRT-00080,Established,Other,154400,99
+CRT-00081,Growth,Other,28547,111
+CRT-00082,Emerging,India,2950,10
+CRT-00083,Established,India,141488,101
+CRT-00084,Emerging,US,808,59
+CRT-00085,Emerging,Southeast Asia,3120,71
+CRT-00086,Emerging,Other,1813,10
+CRT-00087,Growth,India,10000,82
+CRT-00088,Growth,Southeast Asia,14578,82
+CRT-00089,Emerging,US,4451,80
+CRT-00090,Growth,US,32891,95
+CRT-00091,Emerging,US,727,114
+CRT-00092,Growth,US,24705,102
+CRT-00093,Emerging,Other,1353,90
+CRT-00094,Emerging,India,2412,118
+CRT-00095,Emerging,Other,451,81
+CRT-00096,Growth,UK,17668,81
+CRT-00097,Emerging,US,1666,66
+CRT-00098,Emerging,US,1236,93
+CRT-00099,Emerging,Other,2116,9
+CRT-00100,Large,US,1000000,61
+CRT-00101,Established,Other,246293,52
+CRT-00102,Growth,US,46434,110
+CRT-00103,Emerging,UK,1977,9
+CRT-00104,Large,Other,2185550,78
+CRT-00105,Established,US,187675,23
+CRT-00106,Growth,US,17722,107
+CRT-00107,Emerging,Other,1264,103
+CRT-00108,Emerging,US,3669,29
+CRT-00109,Emerging,India,1217,105
+CRT-00110,Established,India,116554,60
+CRT-00111,Growth,US,21033,117
+CRT-00112,Emerging,Canada,1572,88
+CRT-00113,Emerging,Canada,993,5
+CRT-00114,Growth,India,34291,25
+CRT-00115,Emerging,Other,2035,49
+CRT-00116,Established,US,338876,26
+CRT-00117,Growth,US,54818,16
+CRT-00118,Growth,Southeast Asia,44264,118
+CRT-00119,Emerging,Other,634,105
+CRT-00120,Growth,US,17123,53
+CRT-00121,Growth,US,25903,26
+CRT-00122,Growth,Southeast Asia,21470,22
+CRT-00123,Emerging,Other,538,110
+CRT-00124,Emerging,US,940,40
+CRT-00125,Emerging,India,916,2
+CRT-00126,Growth,Canada,19227,48
+CRT-00127,Emerging,India,1040,55
+CRT-00128,Emerging,US,3438,75
+CRT-00129,Emerging,US,1570,41
+CRT-00130,Growth,India,92587,111
+CRT-00131,Emerging,India,1535,78
+CRT-00132,Established,Other,167035,119
+CRT-00133,Growth,UK,26958,45
+CRT-00134,Emerging,UK,1644,79
+CRT-00135,Growth,Other,33443,44
+CRT-00136,Emerging,India,7054,84
+CRT-00137,Large,India,1097203,90
+CRT-00138,Growth,Other,41337,39
+CRT-00139,Established,US,225178,113
+CRT-00140,Emerging,Canada,381,103
+CRT-00141,Growth,Canada,39551,108
+CRT-00142,Growth,US,50706,27
+CRT-00143,Established,India,118859,87
+CRT-00144,Growth,US,26783,13
+CRT-00145,Growth,US,11353,13
+CRT-00146,Emerging,India,489,117
+CRT-00147,Emerging,US,3097,19
+CRT-00148,Growth,Canada,21307,104
+CRT-00149,Emerging,Other,551,52
+CRT-00150,Emerging,Other,1609,37
+CRT-00151,Established,US,145299,9
+CRT-00152,Established,US,149867,82
+CRT-00153,Emerging,US,2419,87
+CRT-00154,Growth,US,15050,57
+CRT-00155,Emerging,Other,649,98
+CRT-00156,Growth,India,29057,39
+CRT-00157,Emerging,US,2908,67
+CRT-00158,Growth,Other,49965,35
+CRT-00159,Growth,India,19292,70
+CRT-00160,Growth,US,42988,17
+CRT-00161,Emerging,US,715,58
+CRT-00162,Established,UK,594648,66
+CRT-00163,Emerging,Canada,540,67
+CRT-00164,Emerging,US,3876,54
+CRT-00165,Growth,Other,19375,78
+CRT-00166,Emerging,Other,6704,62
+CRT-00167,Established,Other,283450,34
+CRT-00168,Established,US,108054,26
+CRT-00169,Emerging,US,882,78
+CRT-00170,Large,Other,3425735,113
+CRT-00171,Emerging,India,3109,91
+CRT-00172,Growth,Southeast Asia,25968,77
+CRT-00173,Emerging,Canada,1388,111
+CRT-00174,Established,US,313329,108
+CRT-00175,Emerging,Canada,1488,61
+CRT-00176,Emerging,Other,475,14
+CRT-00177,Emerging,Canada,698,77
+CRT-00178,Large,India,2337479,75
+CRT-00179,Established,Other,412210,34
+CRT-00180,Growth,Southeast Asia,60354,102
+CRT-00181,Established,Canada,317336,105
+CRT-00182,Established,Other,236185,40
+CRT-00183,Growth,Canada,39120,58
+CRT-00184,Emerging,US,785,24
+CRT-00185,Established,US,181327,22
+CRT-00186,Growth,US,17817,32
+CRT-00187,Emerging,Southeast Asia,493,44
+CRT-00188,Emerging,Southeast Asia,1749,33
+CRT-00189,Growth,Southeast Asia,29518,19
+CRT-00190,Emerging,India,2321,54
+CRT-00191,Established,Canada,275865,75
+CRT-00192,Emerging,Other,1626,40
+CRT-00193,Emerging,US,2090,65
+CRT-00194,Established,Canada,193762,33
+CRT-00195,Emerging,UK,1863,85
+CRT-00196,Emerging,Southeast Asia,749,78
+CRT-00197,Growth,US,32365,116
+CRT-00198,Established,Canada,296870,7
+CRT-00199,Emerging,Other,783,103
+CRT-00200,Emerging,Canada,1396,41
+CRT-00201,Established,Other,136740,8
+CRT-00202,Large,Other,1371540,83
+CRT-00203,Growth,India,15329,21
+CRT-00204,Emerging,UK,3687,22
+CRT-00205,Emerging,India,3141,118
+CRT-00206,Emerging,Other,2058,27
+CRT-00207,Emerging,US,6488,66
+CRT-00208,Growth,India,24474,25
+CRT-00209,Emerging,Other,9999,15
+CRT-00210,Growth,US,24010,1
+CRT-00211,Growth,Canada,30564,2
+CRT-00212,Growth,India,22050,57
+CRT-00213,Emerging,Other,1804,53
+CRT-00214,Established,Other,328196,5
+CRT-00215,Growth,India,25413,42
+CRT-00216,Growth,Canada,65405,33
+CRT-00217,Emerging,India,1621,69
+CRT-00218,Emerging,Southeast Asia,1663,120
+CRT-00219,Established,UK,115220,83
+CRT-00220,Emerging,Other,1872,111
+CRT-00221,Emerging,US,1203,24
+CRT-00222,Growth,US,19848,26
+CRT-00223,Growth,UK,18247,91
+CRT-00224,Large,Southeast Asia,12867745,38
+CRT-00225,Emerging,India,1084,102
+CRT-00226,Established,US,100000,56
+CRT-00227,Emerging,India,766,25
+CRT-00228,Growth,Other,26218,102
+CRT-00229,Growth,US,35359,67
+CRT-00230,Emerging,India,2087,97
+CRT-00231,Emerging,Other,2301,55
+CRT-00232,Emerging,US,799,16
+CRT-00233,Large,Canada,2516320,82
+CRT-00234,Growth,US,17360,15
+CRT-00235,Established,Other,137065,80
+CRT-00236,Established,Canada,114619,51
+CRT-00237,Growth,Other,14850,95
+CRT-00238,Established,US,376444,105
+CRT-00239,Emerging,Southeast Asia,2323,49
+CRT-00240,Emerging,Canada,2925,106
+CRT-00241,Established,US,203533,14
+CRT-00242,Established,US,316818,13
+CRT-00243,Emerging,US,327,120
+CRT-00244,Growth,Other,41421,69
+CRT-00245,Growth,UK,29394,55
+CRT-00246,Established,UK,289602,19
+CRT-00247,Growth,Canada,32533,35
+CRT-00248,Emerging,Southeast Asia,608,83
+CRT-00249,Emerging,India,404,99
+CRT-00250,Emerging,India,757,110
+CRT-00251,Growth,UK,35684,49
+CRT-00252,Established,US,300756,55
+CRT-00253,Growth,Other,13575,20
+CRT-00254,Emerging,Other,611,10
+CRT-00255,Emerging,India,751,53
+CRT-00256,Growth,Southeast Asia,22501,70
+CRT-00257,Established,US,100000,13
+CRT-00258,Emerging,Other,429,50
+CRT-00259,Emerging,Other,694,77
+CRT-00260,Growth,Other,28088,98
+CRT-00261,Emerging,India,520,113
+CRT-00262,Established,US,185445,41
+CRT-00263,Emerging,US,3123,48
+CRT-00264,Emerging,US,472,105
+CRT-00265,Established,US,175629,84
+CRT-00266,Emerging,US,3040,33
+CRT-00267,Emerging,Other,958,83
+CRT-00268,Emerging,US,846,19
+CRT-00269,Emerging,US,3397,54
+CRT-00270,Emerging,Other,1048,37
+CRT-00271,Emerging,Southeast Asia,3240,120
+CRT-00272,Emerging,Canada,1887,5
+CRT-00273,Emerging,UK,1018,103
+CRT-00274,Growth,Other,34195,34
+CRT-00275,Growth,UK,31578,5
+CRT-00276,Emerging,Southeast Asia,3031,80
+CRT-00277,Emerging,UK,863,82
+CRT-00278,Growth,India,27463,18
+CRT-00279,Established,India,191585,5
+CRT-00280,Established,India,303303,14
+CRT-00281,Emerging,US,589,50
+CRT-00282,Emerging,Canada,3021,16
+CRT-00283,Emerging,US,1945,85
+CRT-00284,Emerging,US,467,10
+CRT-00285,Growth,US,49223,95
+CRT-00286,Emerging,Other,8000,105
+CRT-00287,Emerging,India,2985,87
+CRT-00288,Emerging,UK,4194,114
+CRT-00289,Growth,Other,28076,113
+CRT-00290,Emerging,US,354,6
+CRT-00291,Established,Canada,100000,42
+CRT-00292,Emerging,India,1642,92
+CRT-00293,Established,US,139359,41
+CRT-00294,Emerging,UK,644,89
+CRT-00295,Established,Other,191444,93
+CRT-00296,Established,US,287607,120
+CRT-00297,Large,Southeast Asia,1000000,40
+CRT-00298,Established,US,151853,42
+CRT-00299,Established,Southeast Asia,491846,3
+CRT-00300,Growth,UK,15714,35
+CRT-00301,Established,Southeast Asia,334990,34
+CRT-00302,Emerging,UK,908,55
+CRT-00303,Growth,US,35344,51
+CRT-00304,Growth,UK,46567,103
+CRT-00305,Established,UK,310136,93
+CRT-00306,Growth,UK,42386,88
+CRT-00307,Emerging,US,533,1
+CRT-00308,Growth,India,46949,57
+CRT-00309,Emerging,India,677,88
+CRT-00310,Emerging,US,1648,30
+CRT-00311,Growth,US,30611,51
+CRT-00312,Emerging,India,1974,88
+CRT-00313,Emerging,Canada,1753,96
+CRT-00314,Emerging,US,681,103
+CRT-00315,Emerging,Other,454,52
+CRT-00316,Emerging,Southeast Asia,2691,48
+CRT-00317,Emerging,Canada,1554,46
+CRT-00318,Growth,India,47795,81
+CRT-00319,Emerging,India,1292,51
+CRT-00320,Established,Southeast Asia,100000,49
+CRT-00321,Established,Other,354930,21
+CRT-00322,Growth,India,22355,58
+CRT-00323,Emerging,Southeast Asia,1760,29
+CRT-00324,Growth,Southeast Asia,19462,63
+CRT-00325,Established,Canada,533162,107
+CRT-00326,Growth,US,17356,94
+CRT-00327,Established,Southeast Asia,162355,58
+CRT-00328,Growth,India,28388,118
+CRT-00329,Growth,Other,15582,118
+CRT-00330,Emerging,India,1744,54
+CRT-00331,Growth,India,60231,92
+CRT-00332,Emerging,Other,904,42
+CRT-00333,Growth,India,32779,106
+CRT-00334,Established,US,100000,45
+CRT-00335,Emerging,US,1298,31
+CRT-00336,Growth,US,23005,17
+CRT-00337,Emerging,US,695,102
+CRT-00338,Growth,India,46199,36
+CRT-00339,Emerging,Canada,1031,98
+CRT-00340,Established,Canada,178708,11
+CRT-00341,Emerging,US,990,61
+CRT-00342,Large,Southeast Asia,1000000,52
+CRT-00343,Established,US,100791,53
+CRT-00344,Growth,Other,43501,21
+CRT-00345,Established,US,100000,9
+CRT-00346,Established,UK,125518,42
+CRT-00347,Established,India,156399,57
+CRT-00348,Emerging,UK,5404,96
+CRT-00349,Growth,India,39509,56
+CRT-00350,Emerging,Canada,857,30
+CRT-00351,Growth,US,51650,32
+CRT-00352,Emerging,Other,740,74
+CRT-00353,Growth,Southeast Asia,44558,53
+CRT-00354,Growth,Canada,13637,109
+CRT-00355,Growth,Other,46010,53
+CRT-00356,Growth,Other,21959,69
+CRT-00357,Growth,US,16086,8
+CRT-00358,Established,US,174505,24
+CRT-00359,Growth,US,30904,103
+CRT-00360,Growth,US,21007,42
+CRT-00361,Established,Southeast Asia,277166,51
+CRT-00362,Emerging,Other,840,71
+CRT-00363,Emerging,Other,2200,7
+CRT-00364,Emerging,Southeast Asia,1907,61
+CRT-00365,Growth,UK,26096,42
+CRT-00366,Emerging,Other,940,18
+CRT-00367,Established,Other,217711,51
+CRT-00368,Growth,US,35423,54
+CRT-00369,Emerging,Southeast Asia,6970,23
+CRT-00370,Established,Other,349288,66
+CRT-00371,Growth,India,43826,90
+CRT-00372,Emerging,India,9999,33
+CRT-00373,Emerging,Other,2023,116
+CRT-00374,Emerging,Other,1973,74
+CRT-00375,Emerging,Other,2352,93
+CRT-00376,Emerging,Canada,597,9
+CRT-00377,Established,US,152307,93
+CRT-00378,Emerging,India,893,41
+CRT-00379,Emerging,Southeast Asia,2248,86
+CRT-00380,Growth,Southeast Asia,24659,97
+CRT-00381,Growth,Southeast Asia,28828,31
+CRT-00382,Established,UK,381731,32
+CRT-00383,Established,India,333664,8
+CRT-00384,Growth,Canada,24813,73
+CRT-00385,Emerging,India,783,93
+CRT-00386,Large,India,4389352,50
+CRT-00387,Growth,US,39614,20
+CRT-00388,Large,US,1000000,38
+CRT-00389,Emerging,Other,1042,49
+CRT-00390,Established,India,219544,110
+CRT-00391,Growth,US,39712,15
+CRT-00392,Emerging,Canada,2774,42
+CRT-00393,Growth,Southeast Asia,31006,77
+CRT-00394,Growth,US,36048,29
+CRT-00395,Emerging,India,1409,107
+CRT-00396,Growth,US,19207,110
+CRT-00397,Established,UK,169946,46
+CRT-00398,Emerging,US,1359,90
+CRT-00399,Growth,US,26440,91
+CRT-00400,Emerging,US,296,82
+CRT-00401,Emerging,Southeast Asia,974,23
+CRT-00402,Established,US,205607,6
+CRT-00403,Established,Other,167909,42
+CRT-00404,Emerging,US,1099,16
+CRT-00405,Large,Southeast Asia,2790116,36
+CRT-00406,Established,India,104049,77
+CRT-00407,Emerging,India,364,71
+CRT-00408,Established,US,161312,26
+CRT-00409,Emerging,Other,2468,3
+CRT-00410,Large,Other,6460951,28
+CRT-00411,Growth,US,39777,55
+CRT-00412,Growth,US,12911,94
+CRT-00413,Emerging,Other,1112,44
+CRT-00414,Established,Southeast Asia,231881,35
+CRT-00415,Emerging,US,1543,67
+CRT-00416,Emerging,US,2062,9
+CRT-00417,Emerging,UK,643,28
+CRT-00418,Established,Canada,206688,5
+CRT-00419,Emerging,Southeast Asia,1874,64
+CRT-00420,Established,Other,326244,54
+CRT-00421,Growth,India,17982,70
+CRT-00422,Emerging,India,1016,75
+CRT-00423,Emerging,India,153,48
+CRT-00424,Emerging,India,814,105
+CRT-00425,Growth,US,20698,111
+CRT-00426,Established,US,107823,14
+CRT-00427,Emerging,India,1529,111
+CRT-00428,Established,UK,192227,24
+CRT-00429,Emerging,US,219,30
+CRT-00430,Established,India,226229,64
+CRT-00431,Established,UK,113891,4
+CRT-00432,Established,Southeast Asia,266043,44
+CRT-00433,Growth,Canada,14172,24
+CRT-00434,Established,Other,202400,58
+CRT-00435,Emerging,UK,1067,98
+CRT-00436,Emerging,US,1706,111
+CRT-00437,Emerging,India,1479,26
+CRT-00438,Growth,Southeast Asia,23680,66
+CRT-00439,Growth,US,12479,57
+CRT-00440,Growth,US,12853,50
+CRT-00441,Established,US,140037,76
+CRT-00442,Emerging,India,1330,119
+CRT-00443,Growth,India,19848,49
+CRT-00444,Emerging,US,2208,8
+CRT-00445,Emerging,Other,1071,110
+CRT-00446,Growth,Other,16605,112
+CRT-00447,Large,US,1632025,39
+CRT-00448,Growth,Other,30119,61
+CRT-00449,Emerging,US,1736,104
+CRT-00450,Growth,Other,68815,61
+CRT-00451,Emerging,Other,784,58
+CRT-00452,Established,US,190215,111
+CRT-00453,Growth,Canada,33291,100
+CRT-00454,Emerging,Other,1314,61
+CRT-00455,Emerging,Other,897,20
+CRT-00456,Emerging,Other,387,53
+CRT-00457,Large,Southeast Asia,1386670,82
+CRT-00458,Growth,US,15727,33
+CRT-00459,Established,Other,100000,65
+CRT-00460,Growth,Southeast Asia,18072,80
+CRT-00461,Growth,Southeast Asia,15937,11
+CRT-00462,Emerging,India,2136,69
+CRT-00463,Established,Southeast Asia,285117,89
+CRT-00464,Emerging,US,649,26
+CRT-00465,Growth,Canada,23620,66
+CRT-00466,Growth,US,10624,86
+CRT-00467,Growth,Canada,21011,6
+CRT-00468,Established,Other,252556,78
+CRT-00469,Emerging,India,2591,32
+CRT-00470,Growth,Southeast Asia,18835,48
+CRT-00471,Emerging,India,3107,78
+CRT-00472,Growth,Other,12608,1
+CRT-00473,Emerging,Canada,493,3
+CRT-00474,Emerging,India,2363,54
+CRT-00475,Emerging,US,5099,114
+CRT-00476,Emerging,US,1987,1
+CRT-00477,Emerging,India,1296,95
+CRT-00478,Growth,Other,10000,9
+CRT-00479,Growth,Canada,10000,59
+CRT-00480,Emerging,US,1485,52
+CRT-00481,Emerging,Other,1005,57
+CRT-00482,Emerging,India,552,10
+CRT-00483,Growth,Other,27799,91
+CRT-00484,Emerging,US,1468,34
+CRT-00485,Emerging,Southeast Asia,2851,93
+CRT-00486,Emerging,Other,1494,79
+CRT-00487,Growth,US,49721,67
+CRT-00488,Emerging,UK,1348,38
+CRT-00489,Growth,Other,25395,79
+CRT-00490,Growth,US,45805,120
+CRT-00491,Growth,US,16494,111
+CRT-00492,Growth,UK,99999,110
+CRT-00493,Growth,India,32455,27
+CRT-00494,Emerging,US,1816,71
+CRT-00495,Established,India,272408,48
+CRT-00496,Growth,Canada,68773,117
+CRT-00497,Emerging,US,2525,115
+CRT-00498,Growth,India,12057,105
+CRT-00499,Emerging,Other,4116,20
+CRT-00500,Growth,Southeast Asia,22687,39
+CRT-00501,Growth,Other,28383,86
+CRT-00502,Established,India,100000,90
+CRT-00503,Established,Other,272589,43
+CRT-00504,Growth,UK,19424,17
+CRT-00505,Growth,US,28284,17
+CRT-00506,Established,Other,167634,83
+CRT-00507,Emerging,India,6247,55
+CRT-00508,Established,US,653015,59
+CRT-00509,Growth,US,27536,98
+CRT-00510,Emerging,UK,1409,3
+CRT-00511,Emerging,US,993,91
+CRT-00512,Established,US,386004,33
+CRT-00513,Emerging,US,1029,112
+CRT-00514,Emerging,India,956,115
+CRT-00515,Emerging,India,2930,61
+CRT-00516,Emerging,Southeast Asia,870,38
+CRT-00517,Emerging,US,1299,28
+CRT-00518,Growth,US,12201,22
+CRT-00519,Emerging,Southeast Asia,2352,120
+CRT-00520,Established,India,636996,23
+CRT-00521,Established,UK,306427,54
+CRT-00522,Emerging,US,4313,58
+CRT-00523,Emerging,US,680,82
+CRT-00524,Growth,US,30277,102
+CRT-00525,Emerging,India,629,67
+CRT-00526,Emerging,India,1116,91
+CRT-00527,Large,Other,3404293,69
+CRT-00528,Large,India,2129237,53
+CRT-00529,Established,Southeast Asia,100000,19
+CRT-00530,Emerging,Southeast Asia,467,26
+CRT-00531,Growth,US,13486,52
+CRT-00532,Growth,Southeast Asia,34397,6
+CRT-00533,Emerging,India,6982,38
+CRT-00534,Growth,India,53168,56
+CRT-00535,Emerging,US,293,57
+CRT-00536,Emerging,Canada,4174,98
+CRT-00537,Growth,Other,42967,117
+CRT-00538,Emerging,US,389,88
+CRT-00539,Emerging,Southeast Asia,1050,10
+CRT-00540,Established,Canada,383583,50
+CRT-00541,Large,US,2914775,88
+CRT-00542,Growth,Canada,13980,72
+CRT-00543,Established,UK,286772,55
+CRT-00544,Large,Other,1000000,53
+CRT-00545,Emerging,Other,1120,49
+CRT-00546,Emerging,US,3328,70
+CRT-00547,Emerging,India,1359,22
+CRT-00548,Emerging,Southeast Asia,898,63
+CRT-00549,Growth,US,41968,25
+CRT-00550,Emerging,India,2921,82
+CRT-00551,Growth,Other,51793,104
+CRT-00552,Emerging,US,2695,61
+CRT-00553,Emerging,India,3181,47
+CRT-00554,Established,Other,308582,113
+CRT-00555,Emerging,India,1656,80
+CRT-00556,Emerging,India,1438,52
+CRT-00557,Emerging,Other,1107,4
+CRT-00558,Growth,India,14673,2
+CRT-00559,Growth,US,16686,27
+CRT-00560,Growth,US,23364,29
+CRT-00561,Emerging,Other,1624,87
+CRT-00562,Emerging,US,4241,61
+CRT-00563,Established,Southeast Asia,193865,120
+CRT-00564,Growth,US,44433,65
+CRT-00565,Growth,India,46150,109
+CRT-00566,Growth,Other,23963,67
+CRT-00567,Growth,Southeast Asia,36219,43
+CRT-00568,Emerging,Other,1102,86
+CRT-00569,Emerging,US,3857,54
+CRT-00570,Growth,Southeast Asia,36972,33
+CRT-00571,Emerging,Other,516,57
+CRT-00572,Established,India,219019,80
+CRT-00573,Growth,US,61331,46
+CRT-00574,Growth,Other,24572,85
+CRT-00575,Established,India,260049,118
+CRT-00576,Growth,Southeast Asia,35345,50
+CRT-00577,Established,Other,106726,36
+CRT-00578,Growth,US,34729,49
+CRT-00579,Established,India,100000,101
+CRT-00580,Emerging,US,812,22
+CRT-00581,Growth,India,46067,117
+CRT-00582,Growth,US,32156,50
+CRT-00583,Emerging,UK,1049,101
+CRT-00584,Emerging,US,1914,95
+CRT-00585,Established,UK,191749,95
+CRT-00586,Growth,US,27072,110
+CRT-00587,Emerging,India,2265,23
+CRT-00588,Emerging,India,748,72
+CRT-00589,Emerging,UK,1383,12
+CRT-00590,Emerging,India,1043,36
+CRT-00591,Established,India,100000,5
+CRT-00592,Emerging,Other,641,82
+CRT-00593,Emerging,Southeast Asia,4696,73
+CRT-00594,Growth,US,32609,89
+CRT-00595,Emerging,Other,464,22
+CRT-00596,Emerging,India,390,40
+CRT-00597,Growth,US,25435,82
+CRT-00598,Growth,India,58723,100
+CRT-00599,Large,US,1739780,107
+CRT-00600,Growth,US,51714,9
+CRT-00601,Growth,Canada,32079,49
+CRT-00602,Growth,US,34051,2
+CRT-00603,Established,Other,100000,99
+CRT-00604,Growth,Other,42991,15
+CRT-00605,Large,Southeast Asia,1568370,99
+CRT-00606,Established,UK,333652,19
+CRT-00607,Established,UK,121966,2
+CRT-00608,Emerging,Other,1543,106
+CRT-00609,Growth,India,32080,53
+CRT-00610,Emerging,US,1184,51
+CRT-00611,Growth,Southeast Asia,32934,78
+CRT-00612,Growth,Southeast Asia,23548,33
+CRT-00613,Large,US,1258785,83
+CRT-00614,Large,Southeast Asia,6100238,52
+CRT-00615,Emerging,US,3100,33
+CRT-00616,Growth,Other,18390,48
+CRT-00617,Growth,US,35747,1
+CRT-00618,Emerging,US,739,37
+CRT-00619,Emerging,US,519,71
+CRT-00620,Emerging,US,3062,17
+CRT-00621,Established,US,100000,15
+CRT-00622,Growth,US,42762,79
+CRT-00623,Large,US,1661272,52
+CRT-00624,Growth,US,24202,17
+CRT-00625,Large,India,2641416,90
+CRT-00626,Emerging,India,2132,94
+CRT-00627,Established,India,121078,5
+CRT-00628,Emerging,India,2378,25
+CRT-00629,Growth,US,28472,45
+CRT-00630,Established,US,100000,88
+CRT-00631,Established,US,179525,9
+CRT-00632,Established,Canada,455325,97
+CRT-00633,Emerging,Other,5121,39
+CRT-00634,Emerging,Other,2377,16
+CRT-00635,Emerging,Southeast Asia,516,104
+CRT-00636,Emerging,Southeast Asia,1983,11
+CRT-00637,Growth,India,41168,16
+CRT-00638,Growth,Canada,38671,114
+CRT-00639,Established,Canada,318370,63
+CRT-00640,Established,Other,247201,56
+CRT-00641,Growth,Other,25946,83
+CRT-00642,Established,India,137995,76
+CRT-00643,Emerging,Canada,293,74
+CRT-00644,Emerging,Other,1757,3
+CRT-00645,Growth,India,29525,67
+CRT-00646,Established,Other,277769,34
+CRT-00647,Emerging,US,459,97
+CRT-00648,Growth,Other,37142,61
+CRT-00649,Growth,Canada,75152,15
+CRT-00650,Emerging,US,1426,107
+CRT-00651,Emerging,UK,1274,35
+CRT-00652,Established,US,239282,33
+CRT-00653,Growth,Canada,74322,113
+CRT-00654,Emerging,Canada,590,94
+CRT-00655,Established,Southeast Asia,224565,104
+CRT-00656,Emerging,Other,706,80
+CRT-00657,Established,US,143171,110
+CRT-00658,Emerging,US,1287,14
+CRT-00659,Growth,India,52768,72
+CRT-00660,Emerging,US,5657,36
+CRT-00661,Emerging,India,1916,48
+CRT-00662,Established,US,158584,29
+CRT-00663,Emerging,India,9839,25
+CRT-00664,Emerging,India,951,54
+CRT-00665,Emerging,Other,848,111
+CRT-00666,Growth,US,11075,77
+CRT-00667,Established,Other,459390,42
+CRT-00668,Large,India,3905013,53
+CRT-00669,Emerging,India,9267,64
+CRT-00670,Emerging,Southeast Asia,440,30
+CRT-00671,Emerging,India,4300,63
+CRT-00672,Growth,US,27863,84
+CRT-00673,Large,Southeast Asia,3486016,30
+CRT-00674,Growth,US,11803,71
+CRT-00675,Growth,India,56052,86
+CRT-00676,Emerging,Southeast Asia,2512,63
+CRT-00677,Established,India,194201,36
+CRT-00678,Growth,Other,37143,67
+CRT-00679,Emerging,US,726,96
+CRT-00680,Emerging,Other,842,27
+CRT-00681,Emerging,Canada,924,69
+CRT-00682,Emerging,Other,304,82
+CRT-00683,Emerging,Other,2668,39
+CRT-00684,Growth,US,48815,47
+CRT-00685,Growth,Southeast Asia,18945,107
+CRT-00686,Emerging,US,1769,44
+CRT-00687,Emerging,Other,1083,72
+CRT-00688,Large,Southeast Asia,2494981,18
+CRT-00689,Growth,US,19657,112
+CRT-00690,Growth,Other,17296,72
+CRT-00691,Emerging,US,3107,92
+CRT-00692,Established,Southeast Asia,191315,73
+CRT-00693,Emerging,Canada,6752,43
+CRT-00694,Emerging,US,1389,41
+CRT-00695,Established,Southeast Asia,114045,85
+CRT-00696,Growth,Other,49685,104
+CRT-00697,Growth,US,36879,16
+CRT-00698,Growth,Southeast Asia,38693,102
+CRT-00699,Growth,US,48790,100
+CRT-00700,Emerging,UK,794,14
+CRT-00701,Emerging,US,1209,13
+CRT-00702,Emerging,Other,1167,84
+CRT-00703,Emerging,Other,476,102
+CRT-00704,Established,US,169709,48
+CRT-00705,Emerging,India,3901,77
+CRT-00706,Growth,Southeast Asia,30292,120
+CRT-00707,Established,UK,100000,39
+CRT-00708,Established,India,100000,28
+CRT-00709,Emerging,US,5073,119
+CRT-00710,Growth,US,25715,34
+CRT-00711,Large,Other,1260240,57
+CRT-00712,Growth,India,23458,54
+CRT-00713,Established,Other,100000,63
+CRT-00714,Established,India,466893,33
+CRT-00715,Established,Other,157026,82
+CRT-00716,Emerging,US,3999,84
+CRT-00717,Growth,US,27607,25
+CRT-00718,Emerging,Other,4203,58
+CRT-00719,Growth,Other,30587,7
+CRT-00720,Large,India,3602947,27
+CRT-00721,Growth,India,38543,119
+CRT-00722,Emerging,India,2205,61
+CRT-00723,Emerging,India,1769,75
+CRT-00724,Large,US,1684542,107
+CRT-00725,Emerging,Other,6200,86
+CRT-00726,Emerging,US,648,96
+CRT-00727,Emerging,UK,1344,86
+CRT-00728,Emerging,US,1355,60
+CRT-00729,Growth,US,32899,76
+CRT-00730,Growth,UK,21704,35
+CRT-00731,Emerging,India,1722,107
+CRT-00732,Emerging,UK,1170,22
+CRT-00733,Emerging,US,377,107
+CRT-00734,Emerging,Other,1349,106
+CRT-00735,Emerging,Canada,555,18
+CRT-00736,Growth,Other,11302,86
+CRT-00737,Emerging,US,1494,119
+CRT-00738,Emerging,India,1978,69
+CRT-00739,Emerging,India,2041,41
+CRT-00740,Emerging,Southeast Asia,2108,106
+CRT-00741,Emerging,US,285,62
+CRT-00742,Emerging,US,450,15
+CRT-00743,Established,India,649600,30
+CRT-00744,Emerging,US,579,82
+CRT-00745,Growth,India,36512,55
+CRT-00746,Growth,US,19082,27
+CRT-00747,Emerging,US,1427,96
+CRT-00748,Emerging,UK,807,15
+CRT-00749,Established,India,278430,27
+CRT-00750,Established,India,215790,56
+CRT-00751,Emerging,Southeast Asia,935,5
+CRT-00752,Emerging,Canada,578,47
+CRT-00753,Emerging,India,1659,110
+CRT-00754,Growth,Southeast Asia,14671,113
+CRT-00755,Growth,Other,33314,105
+CRT-00756,Emerging,Southeast Asia,9999,39
+CRT-00757,Emerging,Other,3944,8
+CRT-00758,Established,Canada,305898,98
+CRT-00759,Emerging,US,1250,45
+CRT-00760,Growth,India,10204,90
+CRT-00761,Growth,UK,13889,15
+CRT-00762,Emerging,Other,3737,81
+CRT-00763,Emerging,India,712,71
+CRT-00764,Emerging,US,765,111
+CRT-00765,Established,Southeast Asia,179981,13
+CRT-00766,Emerging,US,572,49
+CRT-00767,Emerging,Canada,501,119
+CRT-00768,Emerging,Southeast Asia,1286,47
+CRT-00769,Emerging,Canada,656,79
+CRT-00770,Growth,Other,18573,20
+CRT-00771,Emerging,UK,716,88
+CRT-00772,Growth,Southeast Asia,34932,34
+CRT-00773,Growth,Canada,23955,69
+CRT-00774,Established,Other,178591,106
+CRT-00775,Emerging,Other,2159,80
+CRT-00776,Established,US,182549,57
+CRT-00777,Growth,Southeast Asia,23408,23
+CRT-00778,Emerging,US,1951,41
+CRT-00779,Established,Other,296831,102
+CRT-00780,Established,UK,181998,26
+CRT-00781,Emerging,India,1428,79
+CRT-00782,Established,US,124358,59
+CRT-00783,Growth,India,17494,39
+CRT-00784,Growth,UK,39520,86
+CRT-00785,Large,US,2707292,44
+CRT-00786,Emerging,US,1928,35
+CRT-00787,Established,Other,235275,64
+CRT-00788,Emerging,Canada,1389,91
+CRT-00789,Established,US,301898,104
+CRT-00790,Growth,US,42939,76
+CRT-00791,Emerging,Other,2776,80
+CRT-00792,Emerging,UK,1235,95
+CRT-00793,Emerging,Southeast Asia,4062,33
+CRT-00794,Emerging,India,1608,31
+CRT-00795,Emerging,US,2221,59
+CRT-00796,Emerging,US,1678,76
+CRT-00797,Emerging,Canada,1632,78
+CRT-00798,Emerging,US,743,19
+CRT-00799,Growth,US,38203,94
+CRT-00800,Growth,Canada,99999,44
+CRT-00801,Growth,Other,22305,106
+CRT-00802,Emerging,Canada,1417,87
+CRT-00803,Established,India,152097,118
+CRT-00804,Growth,India,21078,76
+CRT-00805,Emerging,India,4608,64
+CRT-00806,Emerging,India,781,23
+CRT-00807,Growth,Southeast Asia,21225,48
+CRT-00808,Emerging,India,376,104
+CRT-00809,Growth,Southeast Asia,18420,46
+CRT-00810,Large,Other,1000000,7
+CRT-00811,Emerging,Other,2220,30
+CRT-00812,Emerging,US,9999,72
+CRT-00813,Large,India,1533901,76
+CRT-00814,Growth,US,11691,119
+CRT-00815,Emerging,India,2751,113
+CRT-00816,Established,US,128520,64
+CRT-00817,Established,US,433483,67
+CRT-00818,Growth,Canada,23364,97
+CRT-00819,Growth,India,19615,6
+CRT-00820,Emerging,Other,1161,72
+CRT-00821,Emerging,US,2455,57
+CRT-00822,Growth,US,24011,94
+CRT-00823,Emerging,India,900,97
+CRT-00824,Growth,US,24357,79
+CRT-00825,Established,US,100000,79
+CRT-00826,Emerging,Other,1840,83
+CRT-00827,Growth,US,11010,70
+CRT-00828,Emerging,US,938,28
+CRT-00829,Established,Southeast Asia,313523,35
+CRT-00830,Emerging,India,1706,90
+CRT-00831,Growth,Southeast Asia,36140,75
+CRT-00832,Growth,India,26042,29
+CRT-00833,Emerging,Other,3414,106
+CRT-00834,Growth,US,42716,118
+CRT-00835,Growth,India,33626,76
+CRT-00836,Growth,UK,42777,28
+CRT-00837,Growth,Other,39152,113
+CRT-00838,Large,India,1457707,29
+CRT-00839,Emerging,Southeast Asia,457,52
+CRT-00840,Growth,US,33195,104
+CRT-00841,Emerging,US,2073,63
+CRT-00842,Established,US,382423,30
+CRT-00843,Growth,Canada,16845,10
+CRT-00844,Emerging,US,648,44
+CRT-00845,Emerging,Canada,1935,81
+CRT-00846,Established,US,190479,86
+CRT-00847,Emerging,Other,296,27
+CRT-00848,Growth,Other,32453,20
+CRT-00849,Emerging,US,304,85
+CRT-00850,Large,US,1023071,20
+CRT-00851,Emerging,US,3949,8
+CRT-00852,Emerging,Other,5766,59
+CRT-00853,Established,US,100000,69
+CRT-00854,Established,Southeast Asia,163140,30
+CRT-00855,Emerging,India,1385,26
+CRT-00856,Growth,Canada,65552,29
+CRT-00857,Growth,India,21027,42
+CRT-00858,Established,Southeast Asia,149323,2
+CRT-00859,Emerging,Other,4623,2
+CRT-00860,Growth,US,22305,45
+CRT-00861,Growth,Other,38603,3
+CRT-00862,Growth,US,12854,39
+CRT-00863,Established,India,179379,70
+CRT-00864,Growth,Other,11733,4
+CRT-00865,Emerging,UK,575,75
+CRT-00866,Established,UK,328903,75
+CRT-00867,Established,US,192924,69
+CRT-00868,Established,India,164150,76
+CRT-00869,Emerging,India,735,98
+CRT-00870,Emerging,Southeast Asia,1122,9
+CRT-00871,Growth,India,31274,21
+CRT-00872,Emerging,India,2940,39
+CRT-00873,Large,India,1000000,83
+CRT-00874,Emerging,US,688,105
+CRT-00875,Growth,India,29130,111
+CRT-00876,Established,US,187340,70
+CRT-00877,Emerging,Other,1849,50
+CRT-00878,Emerging,Southeast Asia,1659,50
+CRT-00879,Growth,US,23099,8
+CRT-00880,Growth,UK,20672,56
+CRT-00881,Emerging,Other,1100,62
+CRT-00882,Growth,US,47780,25
+CRT-00883,Established,US,128129,93
+CRT-00884,Growth,US,26071,98
+CRT-00885,Emerging,US,1551,37
+CRT-00886,Emerging,Canada,4667,110
+CRT-00887,Emerging,Other,1053,13
+CRT-00888,Emerging,US,2884,110
+CRT-00889,Emerging,Canada,3588,93
+CRT-00890,Growth,US,26059,27
+CRT-00891,Emerging,Southeast Asia,1131,79
+CRT-00892,Large,Canada,1574837,38
+CRT-00893,Emerging,India,1091,96
+CRT-00894,Emerging,US,2652,20
+CRT-00895,Growth,Southeast Asia,30197,30
+CRT-00896,Established,Other,228930,37
+CRT-00897,Emerging,US,544,24
+CRT-00898,Emerging,US,617,40
+CRT-00899,Emerging,US,7440,73
+CRT-00900,Growth,Southeast Asia,24614,76
+CRT-00901,Growth,Southeast Asia,18262,67
+CRT-00902,Emerging,Canada,4208,23
+CRT-00903,Emerging,Canada,1678,25
+CRT-00904,Growth,Other,35921,111
+CRT-00905,Large,Other,1800125,31
+CRT-00906,Growth,US,22940,13
+CRT-00907,Growth,Southeast Asia,24716,55
+CRT-00908,Emerging,US,443,1
+CRT-00909,Emerging,India,1248,42
+CRT-00910,Emerging,Other,1697,103
+CRT-00911,Growth,UK,67862,33
+CRT-00912,Established,Other,209315,85
+CRT-00913,Established,India,100000,59
+CRT-00914,Large,Southeast Asia,1856512,43
+CRT-00915,Large,India,13492612,80
+CRT-00916,Large,US,3636224,72
+CRT-00917,Emerging,US,700,39
+CRT-00918,Emerging,Southeast Asia,2149,27
+CRT-00919,Emerging,US,739,111
+CRT-00920,Growth,Other,13671,21
+CRT-00921,Emerging,US,1013,116
+CRT-00922,Established,US,210011,57
+CRT-00923,Growth,Canada,10550,120
+CRT-00924,Growth,US,15144,43
+CRT-00925,Emerging,Other,1350,68
+CRT-00926,Emerging,Canada,966,74
+CRT-00927,Emerging,US,1836,41
+CRT-00928,Established,UK,100000,27
+CRT-00929,Growth,UK,38447,63
+CRT-00930,Growth,Canada,14885,80
+CRT-00931,Emerging,Other,4984,32
+CRT-00932,Emerging,UK,339,93
+CRT-00933,Emerging,Southeast Asia,558,77
+CRT-00934,Growth,India,33146,20
+CRT-00935,Established,UK,539576,113
+CRT-00936,Emerging,Other,1723,6
+CRT-00937,Established,Southeast Asia,278650,79
+CRT-00938,Emerging,UK,1358,53
+CRT-00939,Established,India,107383,79
+CRT-00940,Emerging,Canada,904,93
+CRT-00941,Emerging,Other,507,83
+CRT-00942,Established,US,100000,79
+CRT-00943,Emerging,US,1847,101
+CRT-00944,Emerging,Southeast Asia,545,85
+CRT-00945,Emerging,India,1729,98
+CRT-00946,Emerging,Southeast Asia,472,49
+CRT-00947,Growth,US,31200,25
+CRT-00948,Established,India,148270,29
+CRT-00949,Established,Southeast Asia,462300,74
+CRT-00950,Emerging,Southeast Asia,1735,64
+CRT-00951,Growth,UK,49905,10
+CRT-00952,Emerging,Canada,731,25
+CRT-00953,Emerging,UK,1400,117
+CRT-00954,Emerging,Canada,611,88
+CRT-00955,Established,UK,155101,91
+CRT-00956,Established,Southeast Asia,169861,24
+CRT-00957,Established,Southeast Asia,128602,8
+CRT-00958,Growth,US,14650,35
+CRT-00959,Growth,US,13269,103
+CRT-00960,Growth,Southeast Asia,10000,61
+CRT-00961,Growth,Other,15864,95
+CRT-00962,Emerging,UK,2212,59
+CRT-00963,Emerging,US,372,59
+CRT-00964,Emerging,Southeast Asia,448,73
+CRT-00965,Large,US,6945669,116
+CRT-00966,Growth,Canada,19569,53
+CRT-00967,Large,Other,2482389,72
+CRT-00968,Emerging,Southeast Asia,2239,111
+CRT-00969,Growth,Southeast Asia,37468,45
+CRT-00970,Emerging,India,396,101
+CRT-00971,Emerging,India,1113,65
+CRT-00972,Emerging,Other,367,106
+CRT-00973,Emerging,Canada,9481,57
+CRT-00974,Established,Southeast Asia,100000,76
+CRT-00975,Emerging,India,579,39
+CRT-00976,Growth,US,15989,77
+CRT-00977,Growth,US,12729,40
+CRT-00978,Emerging,US,3952,74
+CRT-00979,Growth,India,90329,95
+CRT-00980,Emerging,Other,915,53
+CRT-00981,Large,Southeast Asia,1000000,52
+CRT-00982,Established,US,100000,39
+CRT-00983,Growth,US,23812,88
+CRT-00984,Growth,India,22967,72
+CRT-00985,Emerging,Other,795,62
+CRT-00986,Established,India,227027,4
+CRT-00987,Emerging,Canada,1837,14
+CRT-00988,Emerging,Other,1734,1
+CRT-00989,Emerging,US,1040,103
+CRT-00990,Established,Southeast Asia,102644,103
+CRT-00991,Growth,Other,37530,9
+CRT-00992,Growth,India,27072,6
+CRT-00993,Established,US,338748,94
+CRT-00994,Emerging,Other,2520,63
+CRT-00995,Established,Other,100000,38
+CRT-00996,Emerging,Southeast Asia,425,74
+CRT-00997,Growth,Southeast Asia,18439,29
+CRT-00998,Emerging,US,575,24
+CRT-00999,Large,Other,3364117,45
+CRT-01000,Emerging,India,1774,108
+CRT-01001,Emerging,US,3227,93
+CRT-01002,Growth,UK,32801,23
+CRT-01003,Emerging,Other,1582,68
+CRT-01004,Emerging,Other,3497,107
+CRT-01005,Growth,US,34025,115
+CRT-01006,Emerging,US,1414,92
+CRT-01007,Established,Other,483241,16
+CRT-01008,Emerging,Other,1468,29
+CRT-01009,Growth,Southeast Asia,23105,27
+CRT-01010,Growth,UK,17695,19
+CRT-01011,Growth,India,38235,22
+CRT-01012,Growth,India,49937,38
+CRT-01013,Growth,US,26231,67
+CRT-01014,Large,US,4953182,48
+CRT-01015,Emerging,US,276,51
+CRT-01016,Emerging,Other,1281,30
+CRT-01017,Growth,US,26369,19
+CRT-01018,Established,US,128515,120
+CRT-01019,Emerging,Southeast Asia,9019,72
+CRT-01020,Emerging,US,1270,28
+CRT-01021,Established,US,155649,98
+CRT-01022,Growth,Southeast Asia,27254,100
+CRT-01023,Large,India,1000000,117
+CRT-01024,Growth,UK,18399,20
+CRT-01025,Growth,Other,43985,77
+CRT-01026,Emerging,US,809,118
+CRT-01027,Established,Other,120894,97
+CRT-01028,Emerging,Other,3818,28
+CRT-01029,Growth,Other,52581,108
+CRT-01030,Emerging,UK,2025,51
+CRT-01031,Growth,UK,21427,59
+CRT-01032,Growth,UK,23867,68
+CRT-01033,Growth,UK,17996,93
+CRT-01034,Established,US,109440,15
+CRT-01035,Emerging,Other,580,65
+CRT-01036,Growth,Southeast Asia,19751,99
+CRT-01037,Emerging,Canada,585,66
+CRT-01038,Emerging,India,383,33
+CRT-01039,Emerging,US,1596,7
+CRT-01040,Emerging,Southeast Asia,1615,66
+CRT-01041,Emerging,Southeast Asia,5221,85
+CRT-01042,Growth,India,19260,66
+CRT-01043,Growth,India,31196,118
+CRT-01044,Growth,US,31456,73
+CRT-01045,Emerging,Southeast Asia,1093,61
+CRT-01046,Emerging,India,2429,7
+CRT-01047,Emerging,Other,2490,68
+CRT-01048,Established,US,241940,21
+CRT-01049,Established,India,170521,87
+CRT-01050,Emerging,US,1006,20
+CRT-01051,Growth,Southeast Asia,13576,109
+CRT-01052,Emerging,India,702,37
+CRT-01053,Emerging,UK,814,53
+CRT-01054,Emerging,Other,545,18
+CRT-01055,Emerging,US,1904,26
+CRT-01056,Growth,UK,48938,111
+CRT-01057,Established,US,115284,35
+CRT-01058,Emerging,US,1680,62
+CRT-01059,Growth,India,16041,118
+CRT-01060,Growth,US,23098,75
+CRT-01061,Large,Southeast Asia,1222941,5
+CRT-01062,Growth,UK,36349,43
+CRT-01063,Emerging,Canada,778,47
+CRT-01064,Growth,Southeast Asia,44615,34
+CRT-01065,Emerging,Southeast Asia,1100,29
+CRT-01066,Large,India,1258306,61
+CRT-01067,Emerging,US,491,46
+CRT-01068,Growth,US,30534,36
+CRT-01069,Emerging,UK,2741,50
+CRT-01070,Emerging,Other,1666,42
+CRT-01071,Established,US,761693,28
+CRT-01072,Growth,Southeast Asia,54989,55
+CRT-01073,Emerging,Canada,1047,114
+CRT-01074,Established,Other,164256,61
+CRT-01075,Established,Southeast Asia,263502,72
+CRT-01076,Emerging,Southeast Asia,685,119
+CRT-01077,Growth,UK,48201,74
+CRT-01078,Growth,Other,32234,27
+CRT-01079,Growth,US,30583,48
+CRT-01080,Emerging,Other,2320,59
+CRT-01081,Emerging,US,5314,57
+CRT-01082,Established,Other,220262,18
+CRT-01083,Established,US,185753,13
+CRT-01084,Established,US,491507,42
+CRT-01085,Large,US,3903114,110
+CRT-01086,Growth,India,22914,87
+CRT-01087,Growth,India,26973,102
+CRT-01088,Growth,US,29664,21
+CRT-01089,Growth,India,32238,50
+CRT-01090,Growth,India,13652,70
+CRT-01091,Emerging,Canada,389,53
+CRT-01092,Growth,Other,17262,51
+CRT-01093,Emerging,UK,619,44
+CRT-01094,Emerging,US,800,7
+CRT-01095,Growth,US,36951,103
+CRT-01096,Emerging,Other,1170,112
+CRT-01097,Emerging,US,1567,10
+CRT-01098,Established,India,100000,50
+CRT-01099,Established,Other,150695,63
+CRT-01100,Emerging,Other,2142,95
+CRT-01101,Emerging,India,2155,119
+CRT-01102,Emerging,UK,750,50
+CRT-01103,Established,India,219037,90
+CRT-01104,Established,Canada,743637,113
+CRT-01105,Emerging,US,1320,100
+CRT-01106,Established,US,131148,35
+CRT-01107,Emerging,Southeast Asia,1165,99
+CRT-01108,Emerging,US,1441,50
+CRT-01109,Large,UK,1783667,3
+CRT-01110,Emerging,India,1306,92
+CRT-01111,Emerging,Other,422,101
+CRT-01112,Emerging,Other,620,42
+CRT-01113,Growth,India,24967,55
+CRT-01114,Established,Canada,180022,44
+CRT-01115,Large,US,1333966,15
+CRT-01116,Emerging,India,1162,120
+CRT-01117,Emerging,US,1406,3
+CRT-01118,Established,Other,338963,67
+CRT-01119,Emerging,Other,1237,2
+CRT-01120,Established,Other,252574,83
+CRT-01121,Growth,Other,20520,109
+CRT-01122,Emerging,Other,2116,78
+CRT-01123,Established,US,249057,73
+CRT-01124,Emerging,Other,2677,100
+CRT-01125,Emerging,Southeast Asia,2370,117
+CRT-01126,Growth,India,36111,104
+CRT-01127,Growth,Southeast Asia,25611,28
+CRT-01128,Growth,India,30408,68
+CRT-01129,Growth,US,45786,99
+CRT-01130,Large,US,1256132,36
+CRT-01131,Large,US,1277115,82
+CRT-01132,Growth,India,29457,3
+CRT-01133,Emerging,Other,1867,106
+CRT-01134,Growth,UK,17817,74
+CRT-01135,Large,Southeast Asia,1881662,90
+CRT-01136,Emerging,India,1242,100
+CRT-01137,Growth,India,10000,27
+CRT-01138,Emerging,US,1123,55
+CRT-01139,Emerging,Other,1181,104
+CRT-01140,Growth,US,24831,20
+CRT-01141,Emerging,UK,4157,99
+CRT-01142,Established,Canada,100000,35
+CRT-01143,Established,Southeast Asia,121203,70
+CRT-01144,Established,Other,100000,62
+CRT-01145,Emerging,US,911,83
+CRT-01146,Emerging,Other,976,101
+CRT-01147,Growth,Canada,20847,42
+CRT-01148,Established,Canada,386391,21
+CRT-01149,Growth,UK,41369,51
+CRT-01150,Established,Other,208295,74
+CRT-01151,Emerging,Other,995,91
+CRT-01152,Established,India,367954,91
+CRT-01153,Emerging,Other,1318,41
+CRT-01154,Emerging,Canada,696,113
+CRT-01155,Growth,India,11405,10
+CRT-01156,Emerging,Other,941,15
+CRT-01157,Emerging,India,2449,3
+CRT-01158,Emerging,Southeast Asia,8276,112
+CRT-01159,Emerging,US,1407,22
+CRT-01160,Established,US,125591,73
+CRT-01161,Emerging,Other,519,98
+CRT-01162,Growth,India,35453,93
+CRT-01163,Established,India,100000,114
+CRT-01164,Emerging,US,2080,7
+CRT-01165,Emerging,India,2576,49
+CRT-01166,Established,Other,258271,61
+CRT-01167,Established,Other,174242,84
+CRT-01168,Growth,US,35684,75
+CRT-01169,Established,Southeast Asia,220259,68
+CRT-01170,Emerging,India,718,37
+CRT-01171,Emerging,Southeast Asia,5885,13
+CRT-01172,Growth,India,22565,52
+CRT-01173,Emerging,India,2491,32
+CRT-01174,Growth,India,10000,67
+CRT-01175,Growth,Southeast Asia,50931,96
+CRT-01176,Growth,Southeast Asia,56071,67
+CRT-01177,Growth,India,27307,70
+CRT-01178,Emerging,Other,2094,6
+CRT-01179,Emerging,Canada,2093,78
+CRT-01180,Emerging,India,800,53
+CRT-01181,Growth,Other,35367,15
+CRT-01182,Emerging,Other,701,26
+CRT-01183,Emerging,US,823,94
+CRT-01184,Emerging,Southeast Asia,3299,111
+CRT-01185,Emerging,US,2921,61
+CRT-01186,Established,Canada,130115,118
+CRT-01187,Emerging,US,744,22
+CRT-01188,Large,UK,1261841,36
+CRT-01189,Emerging,US,2406,112
+CRT-01190,Growth,Southeast Asia,16317,22
+CRT-01191,Emerging,Other,1781,80
+CRT-01192,Emerging,India,2434,27
+CRT-01193,Established,Other,188537,40
+CRT-01194,Large,Other,4021013,58
+CRT-01195,Established,Other,165613,44
+CRT-01196,Emerging,US,1128,105
+CRT-01197,Emerging,Other,612,117
+CRT-01198,Growth,US,44738,61
+CRT-01199,Emerging,India,725,64
+CRT-01200,Growth,Other,32044,7
+CRT-01201,Growth,UK,25960,29
+CRT-01202,Growth,Southeast Asia,15892,5
+CRT-01203,Established,India,137935,103
+CRT-01204,Growth,Other,53714,28
+CRT-01205,Emerging,UK,1573,41
+CRT-01206,Emerging,India,597,102
+CRT-01207,Growth,Other,31340,86
+CRT-01208,Growth,US,25007,75
+CRT-01209,Emerging,US,9999,5
+CRT-01210,Emerging,UK,1682,68
+CRT-01211,Growth,Other,22240,68
+CRT-01212,Established,US,466035,39
+CRT-01213,Growth,US,10715,90
+CRT-01214,Emerging,US,1444,112
+CRT-01215,Emerging,Other,6604,32
+CRT-01216,Growth,US,25384,40
+CRT-01217,Emerging,Southeast Asia,334,39
+CRT-01218,Growth,Other,22071,101
+CRT-01219,Growth,US,55673,10
+CRT-01220,Emerging,Southeast Asia,1809,108
+CRT-01221,Emerging,Southeast Asia,684,94
+CRT-01222,Emerging,Other,774,59
+CRT-01223,Established,India,142084,71
+CRT-01224,Growth,India,32228,108
+CRT-01225,Emerging,US,3907,93
+CRT-01226,Established,Canada,373791,34
+CRT-01227,Growth,Canada,33792,7
+CRT-01228,Growth,US,13824,80
+CRT-01229,Established,India,100000,18
+CRT-01230,Emerging,Other,2052,11
+CRT-01231,Emerging,US,456,118
+CRT-01232,Growth,US,24033,57
+CRT-01233,Emerging,Southeast Asia,1708,79
+CRT-01234,Growth,India,15232,27
+CRT-01235,Emerging,US,590,13
+CRT-01236,Emerging,India,1242,8
+CRT-01237,Emerging,US,2004,43
+CRT-01238,Emerging,Southeast Asia,3131,1
+CRT-01239,Emerging,UK,2176,51
+CRT-01240,Emerging,Southeast Asia,1420,39
+CRT-01241,Established,US,127043,64
+CRT-01242,Emerging,Other,568,71
+CRT-01243,Emerging,US,890,38
+CRT-01244,Emerging,Canada,1859,55
+CRT-01245,Emerging,India,1753,10
+CRT-01246,Emerging,Canada,249,37
+CRT-01247,Growth,US,18163,118
+CRT-01248,Emerging,US,3510,119
+CRT-01249,Established,India,208465,59
+CRT-01250,Established,US,100000,113
+CRT-01251,Emerging,US,8818,61
+CRT-01252,Emerging,Canada,1308,16
+CRT-01253,Emerging,Other,1821,105
+CRT-01254,Growth,US,32851,50
+CRT-01255,Emerging,Other,998,74
+CRT-01256,Established,Canada,128470,78
+CRT-01257,Growth,Other,77717,37
+CRT-01258,Established,UK,362914,89
+CRT-01259,Growth,UK,40577,61
+CRT-01260,Large,Southeast Asia,2968010,44
+CRT-01261,Emerging,UK,600,36
+CRT-01262,Emerging,Other,3722,90
+CRT-01263,Emerging,US,682,30
+CRT-01264,Established,India,235619,15
+CRT-01265,Growth,US,11852,106
+CRT-01266,Established,Other,100000,40
+CRT-01267,Emerging,India,1727,77
+CRT-01268,Large,UK,1125379,86
+CRT-01269,Growth,Other,10000,101
+CRT-01270,Growth,Other,35252,76
+CRT-01271,Large,US,8745558,85
+CRT-01272,Emerging,Canada,4071,101
+CRT-01273,Emerging,Other,1090,114
+CRT-01274,Growth,US,27022,6
+CRT-01275,Emerging,Canada,2724,90
+CRT-01276,Emerging,India,3286,21
+CRT-01277,Emerging,UK,1017,107
+CRT-01278,Emerging,Southeast Asia,1376,6
+CRT-01279,Established,US,238081,30
+CRT-01280,Growth,US,35487,24
+CRT-01281,Emerging,US,1204,73
+CRT-01282,Emerging,US,1216,1
+CRT-01283,Emerging,UK,4039,3
+CRT-01284,Growth,India,49254,61
+CRT-01285,Established,US,264724,117
+CRT-01286,Established,UK,557638,64
+CRT-01287,Emerging,UK,983,54
+CRT-01288,Emerging,Southeast Asia,4906,79
+CRT-01289,Growth,Other,35286,67
+CRT-01290,Growth,India,99999,47
+CRT-01291,Growth,Other,14820,71
+CRT-01292,Growth,US,19059,1
+CRT-01293,Growth,Canada,33169,30
+CRT-01294,Emerging,Other,1840,81
+CRT-01295,Emerging,Other,6374,41
+CRT-01296,Emerging,Southeast Asia,784,7
+CRT-01297,Emerging,UK,2762,15
+CRT-01298,Emerging,India,3394,104
+CRT-01299,Growth,UK,38266,40
+CRT-01300,Emerging,Canada,620,3
+CRT-01301,Emerging,Other,4130,88
+CRT-01302,Growth,India,49744,64
+CRT-01303,Growth,US,36307,55
+CRT-01304,Emerging,Southeast Asia,1577,108
+CRT-01305,Established,US,227672,38
+CRT-01306,Established,US,189616,69
+CRT-01307,Growth,India,37063,90
+CRT-01308,Growth,Canada,27325,74
+CRT-01309,Emerging,US,679,25
+CRT-01310,Established,US,105962,82
+CRT-01311,Emerging,US,733,90
+CRT-01312,Established,Other,227130,15
+CRT-01313,Growth,UK,26543,20
+CRT-01314,Emerging,US,1591,81
+CRT-01315,Emerging,US,1999,15
+CRT-01316,Growth,Southeast Asia,19659,106
+CRT-01317,Growth,US,55984,14
+CRT-01318,Emerging,Southeast Asia,1081,117
+CRT-01319,Growth,India,21661,81
+CRT-01320,Established,Other,265516,54
+CRT-01321,Growth,US,10740,33
+CRT-01322,Growth,UK,18119,42
+CRT-01323,Emerging,US,2936,90
+CRT-01324,Established,Other,100000,91
+CRT-01325,Emerging,Other,3274,26
+CRT-01326,Established,Canada,492220,66
+CRT-01327,Emerging,India,996,120
+CRT-01328,Growth,US,31129,31
+CRT-01329,Emerging,Other,3278,84
+CRT-01330,Emerging,Canada,922,21
+CRT-01331,Established,US,334591,101
+CRT-01332,Growth,India,19233,21
+CRT-01333,Growth,India,21188,36
+CRT-01334,Large,Other,1133096,56
+CRT-01335,Large,UK,2520210,45
+CRT-01336,Established,UK,398228,21
+CRT-01337,Emerging,UK,1155,77
+CRT-01338,Growth,US,14248,3
+CRT-01339,Established,India,103816,119
+CRT-01340,Emerging,US,1836,7
+CRT-01341,Emerging,Canada,5856,41
+CRT-01342,Established,India,251760,112
+CRT-01343,Growth,India,22171,19
+CRT-01344,Growth,US,39461,9
+CRT-01345,Large,US,1676721,90
+CRT-01346,Growth,Southeast Asia,22266,9
+CRT-01347,Emerging,US,622,108
+CRT-01348,Emerging,US,4133,55
+CRT-01349,Emerging,Canada,175,105
+CRT-01350,Emerging,India,2535,30
+CRT-01351,Established,India,150505,17
+CRT-01352,Established,India,155405,116
+CRT-01353,Emerging,Other,5186,92
+CRT-01354,Emerging,India,756,110
+CRT-01355,Established,Canada,132185,39
+CRT-01356,Emerging,Other,1206,49
+CRT-01357,Growth,UK,33087,70
+CRT-01358,Growth,India,21570,54
+CRT-01359,Growth,Canada,12247,30
+CRT-01360,Emerging,India,670,46
+CRT-01361,Growth,India,51055,74
+CRT-01362,Emerging,Southeast Asia,1422,5
+CRT-01363,Growth,India,33709,41
+CRT-01364,Emerging,US,1086,36
+CRT-01365,Growth,India,19346,9
+CRT-01366,Growth,US,62241,15
+CRT-01367,Emerging,India,1152,60
+CRT-01368,Emerging,Southeast Asia,939,13
+CRT-01369,Emerging,Other,3219,42
+CRT-01370,Emerging,US,751,68
+CRT-01371,Emerging,UK,832,105
+CRT-01372,Established,India,200015,12
+CRT-01373,Emerging,US,1339,53
+CRT-01374,Established,US,232295,13
+CRT-01375,Large,US,8573343,52
+CRT-01376,Emerging,US,1752,58
+CRT-01377,Growth,US,10000,96
+CRT-01378,Established,India,241779,54
+CRT-01379,Growth,Southeast Asia,27417,113
+CRT-01380,Emerging,US,1386,17
+CRT-01381,Emerging,US,1630,7
+CRT-01382,Emerging,US,1309,1
+CRT-01383,Growth,Southeast Asia,26204,43
+CRT-01384,Large,India,3045363,24
+CRT-01385,Large,Southeast Asia,1356669,11
+CRT-01386,Emerging,US,627,29
+CRT-01387,Growth,US,99999,117
+CRT-01388,Emerging,Other,755,97
+CRT-01389,Established,US,211099,3
+CRT-01390,Emerging,US,404,110
+CRT-01391,Established,US,213177,25
+CRT-01392,Established,Other,113557,49
+CRT-01393,Emerging,Southeast Asia,940,40
+CRT-01394,Emerging,Southeast Asia,3090,49
+CRT-01395,Established,Other,263868,92
+CRT-01396,Emerging,US,2110,86
+CRT-01397,Growth,Other,11096,72
+CRT-01398,Established,US,598473,76
+CRT-01399,Growth,UK,14824,88
+CRT-01400,Emerging,India,4549,23
+CRT-01401,Emerging,India,3032,48
+CRT-01402,Emerging,Other,2125,13
+CRT-01403,Large,US,1089806,85
+CRT-01404,Emerging,Other,1512,53
+CRT-01405,Emerging,India,918,77
+CRT-01406,Emerging,UK,1370,68
+CRT-01407,Large,Other,1664590,33
+CRT-01408,Emerging,US,262,17
+CRT-01409,Established,Other,389675,117
+CRT-01410,Growth,Southeast Asia,25833,36
+CRT-01411,Established,UK,148615,14
+CRT-01412,Large,US,1339451,37
+CRT-01413,Established,Southeast Asia,246489,109
+CRT-01414,Established,UK,116278,32
+CRT-01415,Emerging,India,220,119
+CRT-01416,Established,US,253793,56
+CRT-01417,Growth,US,34875,104
+CRT-01418,Growth,Other,24347,79
+CRT-01419,Established,US,100000,6
+CRT-01420,Large,UK,2110118,62
+CRT-01421,Growth,Other,12935,51
+CRT-01422,Growth,US,16096,25
+CRT-01423,Growth,US,18483,66
+CRT-01424,Emerging,UK,2631,13
+CRT-01425,Emerging,US,1002,84
+CRT-01426,Emerging,Southeast Asia,936,99
+CRT-01427,Emerging,UK,6398,12
+CRT-01428,Emerging,Southeast Asia,1775,58
+CRT-01429,Established,India,243627,79
+CRT-01430,Emerging,UK,996,8
+CRT-01431,Established,Southeast Asia,138992,47
+CRT-01432,Growth,US,10000,31
+CRT-01433,Emerging,Southeast Asia,2907,5
+CRT-01434,Emerging,Other,1917,97
+CRT-01435,Emerging,UK,1160,54
+CRT-01436,Large,India,1801159,91
+CRT-01437,Emerging,India,2413,71
+CRT-01438,Growth,US,12365,106
+CRT-01439,Established,US,139535,120
+CRT-01440,Large,US,1000000,73
+CRT-01441,Emerging,Other,5525,43
+CRT-01442,Emerging,US,2698,51
+CRT-01443,Emerging,Other,229,100
+CRT-01444,Emerging,US,399,52
+CRT-01445,Emerging,US,1204,63
+CRT-01446,Growth,India,21242,24
+CRT-01447,Established,India,100000,119
+CRT-01448,Growth,Canada,71138,79
+CRT-01449,Growth,Other,31453,40
+CRT-01450,Emerging,Other,1958,71
+CRT-01451,Established,US,131241,49
+CRT-01452,Growth,Canada,38604,19
+CRT-01453,Established,US,158219,105
+CRT-01454,Established,Other,167710,107
+CRT-01455,Emerging,Southeast Asia,2183,101
+CRT-01456,Emerging,India,363,45
+CRT-01457,Emerging,US,4806,31
+CRT-01458,Emerging,US,1549,6
+CRT-01459,Established,US,428723,88
+CRT-01460,Emerging,Other,566,40
+CRT-01461,Established,Canada,114245,108
+CRT-01462,Growth,Other,15048,105
+CRT-01463,Emerging,US,1636,16
+CRT-01464,Emerging,Southeast Asia,1412,111
+CRT-01465,Growth,US,21328,17
+CRT-01466,Growth,Southeast Asia,16203,59
+CRT-01467,Emerging,India,486,57
+CRT-01468,Emerging,US,1288,115
+CRT-01469,Growth,Southeast Asia,21315,79
+CRT-01470,Emerging,US,773,106
+CRT-01471,Established,India,502953,72
+CRT-01472,Emerging,UK,1254,100
+CRT-01473,Emerging,US,3699,103
+CRT-01474,Growth,Other,20606,104
+CRT-01475,Growth,Southeast Asia,30405,50
+CRT-01476,Growth,Other,26167,46
+CRT-01477,Emerging,UK,344,119
+CRT-01478,Large,UK,5388819,91
+CRT-01479,Growth,UK,25145,111
+CRT-01480,Growth,Other,39073,70
+CRT-01481,Emerging,Southeast Asia,733,112
+CRT-01482,Emerging,US,1173,87
+CRT-01483,Growth,US,17440,90
+CRT-01484,Emerging,Southeast Asia,3600,22
+CRT-01485,Growth,US,31435,69
+CRT-01486,Emerging,US,1796,88
+CRT-01487,Large,US,5130578,92
+CRT-01488,Growth,Southeast Asia,47962,115
+CRT-01489,Established,US,314646,40
+CRT-01490,Growth,Southeast Asia,13215,37
+CRT-01491,Emerging,Canada,767,117
+CRT-01492,Established,Other,108843,119
+CRT-01493,Growth,India,38706,22
+CRT-01494,Established,Southeast Asia,220221,46
+CRT-01495,Emerging,Southeast Asia,440,114
+CRT-01496,Growth,India,24480,24
+CRT-01497,Established,UK,100000,94
+CRT-01498,Growth,US,26197,14
+CRT-01499,Emerging,Other,356,22
+CRT-01500,Growth,US,35045,95

@@ -1,0 +1,4 @@
+ai_version,version_name,launch_date,experiment_group,description
+V1,Baseline Creator Agent,2025-10-01,Control / Baseline,First-generation conversational support model with standard RAG retrieval.
+V2,Enhanced LLM Reasoning Agent,2026-05-01,Treatment / Improved Agent,Second-generation model with multi-step policy reasoning and reduced latency.
+None,Direct Human Routing,2024-01-01,Non-AI Route,Inbound tickets routed directly to human support queues without AI intervention.

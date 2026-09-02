@@ -1,0 +1,211 @@
+/* ==============================================================================
+   DAX MEASURES LIBRARY: YouTube Creator Support AI Agent Analytics
+   Star-Schema Semantic Model Measures for Power BI
+   
+   Synthetic Data Disclosure: Independent simulation case study.
+   ============================================================================== */
+
+// ==============================================================================
+// 1. VOLUME & FUNNEL MEASURES
+// ==============================================================================
+
+[Total Conversations] = 
+COUNTROWS('fact_conversations')
+
+[Eligible for AI Volume] = 
+CALCULATE(
+    COUNTROWS('fact_conversations'),
+    'fact_conversations'[eligible_for_ai] = TRUE()
+)
+
+[AI Used Volume] = 
+CALCULATE(
+    COUNTROWS('fact_conversations'),
+    'fact_conversations'[ai_used] = TRUE()
+)
+
+[AI Contained Volume] = 
+CALCULATE(
+    COUNTROWS('fact_conversations'),
+    'fact_conversations'[ai_used] = TRUE(),
+    'fact_conversations'[ai_contained] = TRUE()
+)
+
+[AI Resolved Volume] = 
+CALCULATE(
+    COUNTROWS('fact_conversations'),
+    'fact_conversations'[ai_used] = TRUE(),
+    'fact_conversations'[resolution_status] = "Resolved"
+)
+
+[SARR Success Volume] = 
+CALCULATE(
+    COUNTROWS('fact_conversations'),
+    'fact_conversations'[ai_used] = TRUE(),
+    'fact_conversations'[ai_contained] = TRUE(),
+    'fact_conversations'[resolution_type] = "AI_Resolved",
+    'fact_conversations'[repeat_contact_7d] = FALSE()
+)
+
+[False Containment Volume] = 
+[AI Contained Volume] - [SARR Success Volume]
+
+[Human Escalation Volume] = 
+CALCULATE(
+    COUNTROWS('fact_conversations'),
+    'fact_conversations'[human_escalated] = TRUE()
+)
+
+[7-Day Repeat Contact Volume] = 
+CALCULATE(
+    COUNTROWS('fact_conversations'),
+    'fact_conversations'[repeat_contact_7d] = TRUE()
+)
+
+[AI Error Volume] = 
+CALCULATE(
+    COUNTROWS('fact_conversations'),
+    'fact_conversations'[ai_used] = TRUE(),
+    'fact_conversations'[ai_error_flag] = TRUE()
+)
+
+
+// ==============================================================================
+// 2. CORE KPI & RATE MEASURES
+// ==============================================================================
+
+[AI Adoption Rate] = 
+DIVIDE([AI Used Volume], [Eligible for AI Volume], BLANK())
+
+[AI Containment Rate] = 
+DIVIDE([AI Contained Volume], [AI Used Volume], BLANK())
+
+[Successful AI Resolution Rate (SARR)] = 
+DIVIDE([SARR Success Volume], [AI Used Volume], BLANK())
+
+[False Containment Wedge (pp)] = 
+[AI Containment Rate] - [Successful AI Resolution Rate (SARR)]
+
+[Quality-Adjusted Containment (QAC)] = 
+[Successful AI Resolution Rate (SARR)]
+
+[Human Escalation Rate] = 
+DIVIDE([Human Escalation Volume], [AI Used Volume], BLANK())
+
+[7-Day Repeat Contact Rate] = 
+DIVIDE([7-Day Repeat Contact Volume], [AI Used Volume], BLANK())
+
+[AI Error Rate] = 
+DIVIDE([AI Error Volume], [AI Used Volume], BLANK())
+
+
+// ==============================================================================
+// 3. EXPERIENCE & CSAT MEASURES
+// ==============================================================================
+
+[Valid CSAT Responses] = 
+CALCULATE(
+    COUNTROWS('fact_conversations'),
+    NOT(ISBLANK('fact_conversations'[csat_score]))
+)
+
+[Positive CSAT Responses] = 
+CALCULATE(
+    COUNTROWS('fact_conversations'),
+    'fact_conversations'[csat_score] >= 4
+)
+
+[Positive CSAT Rate] = 
+DIVIDE([Positive CSAT Responses], [Valid CSAT Responses], BLANK())
+
+[Mean CSAT Score] = 
+AVERAGE('fact_conversations'[csat_score])
+
+[CSAT Response Rate] = 
+DIVIDE([Valid CSAT Responses], [Total Conversations], BLANK())
+
+
+// ==============================================================================
+// 4. EFFICIENCY & WORKFORCE MEASURES
+// ==============================================================================
+
+[Mean AI Response Time (sec)] = 
+CALCULATE(
+    AVERAGE('fact_conversations'[ai_response_time_sec]),
+    'fact_conversations'[ai_used] = TRUE()
+)
+
+[Median AI Response Time (sec)] = 
+CALCULATE(
+    MEDIAN('fact_conversations'[ai_response_time_sec]),
+    'fact_conversations'[ai_used] = TRUE()
+)
+
+[P90 AI Response Time (sec)] = 
+CALCULATE(
+    PERCENTILE.INC('fact_conversations'[ai_response_time_sec], 0.90),
+    'fact_conversations'[ai_used] = TRUE()
+)
+
+[Mean Human Handling Time (min)] = 
+CALCULATE(
+    AVERAGE('fact_conversations'[human_handling_time_min]),
+    'fact_conversations'[human_escalated] = TRUE()
+)
+
+[Total Human Support Hours] = 
+DIVIDE(SUM('fact_conversations'[human_handling_time_min]), 60, 0)
+
+[Estimated Fully Loaded Labor Cost] = 
+[Total Human Support Hours] * 45.0  // $45/hour loaded cost
+
+
+// ==============================================================================
+// 5. A/B EXPERIMENT COMPARISON MEASURES (MAY-JUNE RCT)
+// ==============================================================================
+
+[Control SARR] = 
+CALCULATE(
+    [Successful AI Resolution Rate (SARR)],
+    'fact_conversations'[experiment_group] = "Control_V1"
+)
+
+[Treatment SARR] = 
+CALCULATE(
+    [Successful AI Resolution Rate (SARR)],
+    'fact_conversations'[experiment_group] = "Treatment_V2"
+)
+
+[SARR Absolute Lift (pp)] = 
+[Treatment SARR] - [Control SARR]
+
+[SARR Relative Lift (%)] = 
+DIVIDE([Treatment SARR] - [Control SARR], [Control SARR], BLANK())
+
+[Control Containment] = 
+CALCULATE(
+    [AI Containment Rate],
+    'fact_conversations'[experiment_group] = "Control_V1"
+)
+
+[Treatment Containment] = 
+CALCULATE(
+    [AI Containment Rate],
+    'fact_conversations'[experiment_group] = "Treatment_V2"
+)
+
+[Containment Absolute Lift (pp)] = 
+[Treatment Containment] - [Control Containment]
+
+
+// ==============================================================================
+// 6. PROPOSED COMPOSITE QUALITY SCORE: ARQS (0 - 100 Index)
+// ==============================================================================
+
+[AI Resolution Quality Score (ARQS)] = 
+VAR ResolutionPart = 40 * [Successful AI Resolution Rate (SARR)]
+VAR AccuracyPart   = 25 * (1 - [AI Error Rate])
+VAR RepeatPart     = 20 * (1 - [7-Day Repeat Contact Rate])
+VAR CSATPart       = 15 * DIVIDE([Mean CSAT Score] - 1, 4, 0)
+RETURN
+ResolutionPart + AccuracyPart + RepeatPart + CSATPart
